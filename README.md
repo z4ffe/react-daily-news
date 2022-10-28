@@ -1,1 +1,1 @@
-<h5>scss, react, redux, react-toastify, react-bootstrap, axios, formik, moment, masonry</h5>
+<h5 style="text-align: center">scss, react, redux, react-toastify, react-bootstrap, axios, formik, moment, masonry, json-server</h5> 
