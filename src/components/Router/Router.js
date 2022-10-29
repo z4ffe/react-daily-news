@@ -1,9 +1,9 @@
 import React from 'react';
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import Home from "../Home";
-import Contact from "../contact";
+import Contact from "../Contact";
 import PostComponent from "../Posts";
-import Header from "../Header";
+import Header from "../Header/Header";
 import MainLayout from "../../layouts/MainLayout";
 
 const Router = () => {

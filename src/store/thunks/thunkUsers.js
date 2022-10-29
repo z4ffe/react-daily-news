@@ -25,3 +25,14 @@ export const addUserToNewsLetter = createAsyncThunk('users/addUserToNewsLetter',
 })
 
 
+export const sendMessage = createAsyncThunk('users/sendMessage', async (data) => {
+   try {
+	  await axios({method: "POST", url: `${URL_SERVER}/contact`, data: data})
+	  return true
+   } catch (err) {
+	  throw err
+   }
+})
+
+
+
