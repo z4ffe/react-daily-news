@@ -2,3 +2,5 @@
 
 <div>npm run jserv</div> 
 <div>npm start</div> 
+
+<a href="https://react-daily-news.herokuapp.com">Heroku Preview</a> 
