@@ -202,18 +202,7 @@
     }
   ],
   "newsletter": [
-    {
-      "email": "pavel.kulyasov@gmail.com",
-      "id": 1
-    }
   ],
   "contact": [
-    {
-      "email": "pavel.kulyasov@gmail.com",
-      "firstname": "asdasd",
-      "lastname": "asd",
-      "message": "asdsadsadsa",
-      "id": 1
-    }
   ]
 }
