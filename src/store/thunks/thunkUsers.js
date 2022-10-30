@@ -1,7 +1,7 @@
 import {createAsyncThunk} from "@reduxjs/toolkit";
 import axios from "axios";
 
-const URL_SERVER = "http://localhost:3000"
+const URL_SERVER = "https://react-daily-news.herokuapp.com"
 
 export const addUserToNewsLetter = createAsyncThunk('users/addUserToNewsLetter', async (data) => {
    try {

@@ -51,12 +51,12 @@ const Contact = () => {
 			</div>
 			<div className="form-group mt-2">
 			   <label htmlFor="firstname">First name</label>
-			   <input type="text" className="form-control mt-1" placeholder="example@email.com" name="firstname" {...formik.getFieldProps('firstname')}/>
+			   <input type="text" className="form-control mt-1" name="firstname" {...formik.getFieldProps('firstname')}/>
 			   {(formik.errors.firstname && formik.touched.firstname) && <Alert variant="danger" className="mt-1">{formik.errors.firstname}</Alert>}
 			</div>
 			<div className="form-group mt-2">
 			   <label htmlFor="lastname">Last name</label>
-			   <input type="text" className="form-control mt-1" placeholder="example@email.com" name="lastname" {...formik.getFieldProps('lastname')}/>
+			   <input type="text" className="form-control mt-1" name="lastname" {...formik.getFieldProps('lastname')}/>
 			   {(formik.errors.lastname && formik.touched.lastname) && <Alert variant="danger" className="mt-1">{formik.errors.lastname}</Alert>}
 			</div>
 			<div className="form-group mt-2">
