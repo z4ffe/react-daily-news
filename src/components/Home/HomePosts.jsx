@@ -12,7 +12,7 @@ const HomePosts = () => {
 
    useEffect(() => {
 	  if (storeArticles.news.length <= 0) dispatch(fetchArticles({page: 1}))
-   }, )
+   }, [])
 
    const loadMorePosts = () => dispatch(fetchArticles({
 	  page: `${Number(storeArticles.page) + 1}`
