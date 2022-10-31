@@ -1,10 +1,11 @@
 import React from 'react';
 import {BrowserRouter, Route, Routes} from "react-router-dom";
-import Home from "../Home";
-import Contact from "../Contact";
-import PostComponent from "../Posts";
+import Home from "../Home/Home";
+import Contact from "../Contact/Contact";
+import PostComponent from "../Posts/Posts";
 import Header from "../Header/Header";
 import MainLayout from "../../layouts/MainLayout";
+import Footer from "../Footer/Footer";
 
 const Router = () => {
    return (
@@ -17,6 +18,7 @@ const Router = () => {
 			   <Route path="article/:id" element={<PostComponent/>}></Route>
 			   <Route path="*" element={<Home/>}></Route>
 			</Routes>
+			<Footer/>
 		 </MainLayout>
 	  </BrowserRouter>
    );

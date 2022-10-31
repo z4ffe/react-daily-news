@@ -1,12 +1,11 @@
 import React from 'react';
 import HomePosts from "./HomePosts";
-import NewsLetter from "../tools/NewsLetter";
+import Footer from "../Footer/Footer";
 
 const Home = () => {
    return (
 	  <>
 		 <HomePosts/>
-		 <NewsLetter/>
 	  </>
    );
 };
