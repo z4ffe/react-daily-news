@@ -2,7 +2,6 @@ import React, {useEffect} from 'react';
 import {useDispatch, useSelector} from "react-redux";
 import {useParams} from "react-router-dom";
 import Moment from "react-moment";
-import {clearPostById} from "../../store/reducers/posts";
 import {articleById} from "../../store/reducers/articles";
 
 const PostComponent = () => {
@@ -14,12 +13,6 @@ const PostComponent = () => {
    useEffect(() => {
 	  dispatch(articleById(storeArticle.news[params.id]))
    }, )
-
-   useEffect(() => {
-	  return () => {
-		 dispatch(clearPostById())
-	  }
-   }, [dispatch])
 
    return (
 	  <>

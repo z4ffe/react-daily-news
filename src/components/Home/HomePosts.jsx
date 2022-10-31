@@ -18,7 +18,6 @@ const HomePosts = () => {
 	  page: `${Number(storeArticles.page) + 1}`
    }))
 
-
    return (
 	  <>
 		 <Masonry breakpointCols={{default: 3, 800: 2, 400: 1}} className="my-masonry-grid"

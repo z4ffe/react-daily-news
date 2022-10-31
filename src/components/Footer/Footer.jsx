@@ -12,9 +12,8 @@ const Footer = () => {
    const handleSubmit = (e) => {
 	  e.preventDefault()
 	  const value = textInput.current.value
-	  if (!value) {
-		 console.log(value)
-		 dispatch(addUserToNewsLetter({email: value}))
+	  console.log(value)
+	  dispatch(addUserToNewsLetter({email: value}))
 		 .unwrap()
 		 .then(res => {
 			if (res.newsletter === 'added') {
@@ -22,7 +21,7 @@ const Footer = () => {
 			} else {
 			   ShowToast('error', 'This email already exist')
 			}
-		 })}
+		 })
 	  textInput.current.value = null
 	  dispatch(clearNewsLetter())
    }
@@ -49,10 +48,14 @@ const Footer = () => {
 		 </div>
 		 <div className="footer-socials">
 			<ul className="socials-list">
-			   <li><a href="https://www.instagram.com/" rel="noreferrer" target="_blank"><i className="fa-brands fa-instagram fa-xl"></i></a></li>
-			   <li><a href="https://www.twitter.com/" rel="noreferrer" target="_blank"><i className="fa-brands fa-twitter fa-xl"></i></a></li>
-			   <li><a href="https://www.facebook.com/" rel="noreferrer" target="_blank"><i className="fa-brands fa-facebook fa-xl"></i></a></li>
-			   <li><a href="https://www.tiktok.com/" rel="noreferrer" target="_blank"><i className="fa-brands fa-tiktok fa-xl"></i></a></li>
+			   <li><a href="https://www.instagram.com/" rel="noreferrer" target="_blank"><i
+				  className="fa-brands fa-instagram fa-xl"></i></a></li>
+			   <li><a href="https://www.twitter.com/" rel="noreferrer" target="_blank"><i
+				  className="fa-brands fa-twitter fa-xl"></i></a></li>
+			   <li><a href="https://www.facebook.com/" rel="noreferrer" target="_blank"><i
+				  className="fa-brands fa-facebook fa-xl"></i></a></li>
+			   <li><a href="https://www.tiktok.com/" rel="noreferrer" target="_blank"><i
+				  className="fa-brands fa-tiktok fa-xl"></i></a></li>
 			</ul>
 		 </div>
 	  </div>

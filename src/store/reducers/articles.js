@@ -24,7 +24,9 @@ export const articlesSlice = createSlice({
 		 })
 		 .addCase(fetchArticles.fulfilled, (state, action) => {
 			state.loading = false
-			state.news = [...state.news, ...action.payload.news.articles]
+			// state.news = [...state.news, ...action.payload.news.articles] // for real-api
+			state.news = [...state.news, ...action.payload.news] // local json-server articles
+			state.end = action.payload.end  // local json-server end-of-articles
 			state.page = +action.payload.page.page
 		 })
 		 .addCase(fetchArticles.rejected, (state, action) => {

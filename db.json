@@ -1,208 +1,1311 @@
 {
-  "posts": [
+  "newsletter": [
     {
-      "id": 1,
-      "title": "Nemo enim ipsam voluptatem quia voluptas",
-      "excerpt": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "John marks",
-      "createdAt": "2020-04-19T12:59-0500"
-    },
-    {
-      "id": 2,
-      "title": "Sed ut perspiciatis unde omnis iste natus error sit",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "John marks",
-      "createdAt": "2020-04-20T12:59-0500"
-    },
-    {
-      "id": 3,
-      "title": "Excepteur sint occaecat cupidatat non proident",
-      "excerpt": "Ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "Marcos Di Palma",
-      "createdAt": "2020-05-02T12:59-0500"
-    },
-    {
-      "id": 4,
-      "title": "Laudantium, totam rem aperiam, eaque ipsa quae ab",
-      "excerpt": "Et enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "Elfrid Payton",
-      "createdAt": "2020-05-03T12:59-0500"
-    },
-    {
-      "id": 5,
-      "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia",
-      "excerpt": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "Elfrid Payton",
-      "createdAt": "2020-05-10T12:59-0500"
-    },
-    {
-      "id": 6,
-      "title": "Nemo enim ipsam voluptatem quia voluptas",
-      "excerpt": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "John marks",
-      "createdAt": "2020-05-13T12:59-0500"
-    },
-    {
-      "id": 7,
-      "title": "Sed ut perspiciatis unde omnis iste natus error sit",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "Obi Toppin",
-      "createdAt": "2020-05-15T12:59-0500"
-    },
-    {
-      "id": 8,
-      "title": "Excepteur sint occaecat cupidatat non proident",
-      "excerpt": "Ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "Obi Toppin",
-      "createdAt": "2020-05-20T12:59-0500"
-    },
-    {
-      "id": 9,
-      "title": "Laudantium, totam rem aperiam, eaque ipsa quae ab",
-      "excerpt": "Et enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "Obi Toppin",
-      "createdAt": "2020-05-25T12:59-0500"
-    },
-    {
-      "id": 10,
-      "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia",
-      "excerpt": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "James Harden",
-      "createdAt": "2020-06-02T12:59-0500"
-    },
-    {
-      "id": 11,
-      "title": "Nemo enim ipsam voluptatem quia voluptas",
-      "excerpt": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "John marks",
-      "createdAt": "2020-06-04T12:59-0500"
-    },
-    {
-      "id": 12,
-      "title": "Sed ut perspiciatis unde omnis iste natus error sit",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "James Harden",
-      "createdAt": "2020-06-10T12:59-0500"
-    },
-    {
-      "id": 13,
-      "title": "Excepteur sint occaecat cupidatat non proident",
-      "excerpt": "Ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "James Harden",
-      "createdAt": "2020-06-25T12:59-0500"
-    },
-    {
-      "id": 14,
-      "title": "Laudantium, totam rem aperiam, eaque ipsa quae ab",
-      "excerpt": "Et enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "James Harden",
-      "createdAt": "2020-07-01T12:59-0500"
-    },
-    {
-      "id": 15,
-      "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia",
-      "excerpt": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "Robert Johnson",
-      "createdAt": "2020-07-05T12:59-0500"
-    },
-    {
-      "id": 16,
-      "title": "Nemo enim ipsam voluptatem quia voluptas",
-      "excerpt": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "John marks",
-      "createdAt": "2020-07-10T12:59-0500"
-    },
-    {
-      "id": 17,
-      "title": "Sed ut perspiciatis unde omnis iste natus error sit",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "Robert Johnson",
-      "createdAt": "2020-07-14T12:59-0500"
-    },
-    {
-      "id": 18,
-      "title": "Excepteur sint occaecat cupidatat non proident",
-      "excerpt": "Ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "Robert Johnson",
-      "createdAt": "2020-07-20T12:59-0500"
-    },
-    {
-      "id": 19,
-      "title": "Laudantium, totam rem aperiam, eaque ipsa quae ab",
-      "excerpt": "Et enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "Robert Johnson",
-      "createdAt": "2020-07-22T12:59-0500"
-    },
-    {
-      "id": 20,
-      "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia",
-      "excerpt": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
-      "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-      "image": "https://picsum.photos/500/500",
-      "imagexl": "https://picsum.photos/1920/1080",
-      "author": "Robert Johnson",
-      "createdAt": "2020-07-22T12:59-0500"
+      "email": "pavel.kulyasov@gmail.com",
+      "id": 1
     }
   ],
-  "newsletter": [
-  ],
-  "contact": [
+  "contact": [],
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "The Meta Quest 2’s passthrough button melts away, just like reality",
+      "description": "October’s button of the month is on the invisible button that launches passthrough mode on the Meta Quest 2. It’s meant to be tricky to launch into so you don’t accidentally interrupt an immersive VR session.",
+      "url": "https://www.theverge.com/2022/10/31/23433627/meta-oculus-quest-2-vr-headset-passthrough-mode-button-invisible-gesture",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ucmAo4m5eZJCXftX5ZPYCyXDy_k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24157042/passthroughmode.jpg",
+      "publishedAt": "2022-10-31T21:20:11Z",
+      "content": "Double-tapping the side of the Quest 2 triggers passthrough mode, letting you see what’s happening around you. | GIF by Owen Grove / The Verge\r\n\n \n\n\n Virtual reality is for checking out. The wider th… [+4180 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "A24 and Bryan Fuller are bringing a Friday the 13th ‘expanded prequel’ series to Peacock",
+      "description": "Bryan fuller’s next big project is a Friday the 13th “expanded prequel” streaming series produced with A24 for Peacock.",
+      "url": "https://www.theverge.com/2022/10/31/23433548/friday-the-13th-a24-bryan-fuller-crystal-lake-peacock-prequel",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RZvq2XWksOgxkoo3Lv4D8sy6JJI=/0x0:1685x949/1200x628/filters:focal(807x537:808x538)/cdn.vox-cdn.com/uploads/chorus_asset/file/24156978/Jason_Mask_2009_1.jpeg",
+      "publishedAt": "2022-10-31T21:00:40Z",
+      "content": "A24 and Bryan Fuller are bringing a Friday the 13th expanded prequel series to Peacock\r\nA24 and Bryan Fuller are bringing a Friday the 13th expanded prequel series to Peacock\r\n / The man behind Hanni… [+1528 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Netflix is acquiring cozy game developer Spry Fox",
+      "description": "Netflix is acquiring Spry Fox, the indie developer of games like Cozy Grove and Alphabear. The acquisition means that Spry Fox will become Netflix’s sixth in-house gaming studio.",
+      "url": "https://www.theverge.com/2022/10/31/23433526/netflix-spry-fox-cozy-gaming-studio-acquisition",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/WfoGCF6bennMt1_hR1pqogHJA2Y=/462x0:3543x2160/1200x628/filters:focal(2014x941:2015x942)/cdn.vox-cdn.com/uploads/chorus_asset/file/24157073/ss_7ccc68d4ac9698f3066995d02587b50977dace71.jpg",
+      "publishedAt": "2022-10-31T20:52:24Z",
+      "content": "Netflix is acquiring cozy game developer Spry Fox\r\nNetflix is acquiring cozy game developer Spry Fox\r\n / Netflix is making another investment in gaming with the acquisition of Spry Fox, known for gam… [+1577 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "Elon Musk might resurrect Vine",
+      "description": "Elon Musk is having employees at Twitter look into how much work it would be to resurrect Vine. It’s far from a sure thing that the six-second looping video platform will be brought back, but here’s hoping.",
+      "url": "https://www.theverge.com/2022/10/31/23433429/elon-musk-vine-twitter-purchase",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/h65pn6bUHvcbo3B7ftV-248SzC0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23382328/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.jpg",
+      "publishedAt": "2022-10-31T20:40:51Z",
+      "content": "Elon Musk might resurrect Vine\r\nElon Musk might resurrect Vine\r\n / Engineers have been tasked with seeing how much work itd be to bring the six-second video service back\r\nElon Musk is looking into th… [+2485 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "Tenoch Huerta hopes Wakanda Forever helps Latin Americans embrace their roots",
+      "description": "Ahead of Black Panther: Wakanda Forever’s release on November 11th, Namor actor Tenoch Huerta spoke to The Verge about how the Marvel movie’s a celebration of Latin American identity.",
+      "url": "https://www.theverge.com/2022/10/31/23433010/tenoch-huerta-namor-black-panther-wakanda-forever-talocan",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/t_Rcu86hpBBJL5B5ZUfH5dRzkNk=/0x1154:4000x4000/1200x628/filters:focal(2132x2565:2133x2566)/cdn.vox-cdn.com/uploads/chorus_asset/file/24156726/SUM_08647_R.jpeg",
+      "publishedAt": "2022-10-31T20:08:50Z",
+      "content": "Tenoch Huerta hopes Wakanda Forever helps Latin Americans embrace their roots\r\nTenoch Huerta hopes Wakanda Forever helps Latin Americans embrace their roots\r\n / Black Panther: Wakanda Forevers Huerta… [+2756 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Tritium and DC-America are building a coast-to-coast EV fast charging network",
+      "description": "Tritium and DC-America are working on a new coast-to-coast DC fast charging network. The chargers are built in America, are funded by the Bipartisan Infrastructure Law bill, and are designed to be easy to deploy.",
+      "url": "https://www.theverge.com/2022/10/31/23433342/tritium-dc-america-nationwide-ev-fast-charging-network",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/mzWZk2uGJxEs84uTNt2gYQuhJCY=/0x0:3108x2066/1200x628/filters:focal(1554x1033:1555x1034)/cdn.vox-cdn.com/uploads/chorus_asset/file/24156586/eefff505_eb33_4217_a14f_f9a1ce81a6a5.jpeg",
+      "publishedAt": "2022-10-31T19:51:47Z",
+      "content": "Tritium and DC-America are building a coast-to-coast EV fast charging network\r\nTritium and DC-America are building a coast-to-coast EV fast charging network\r\n / The American-made and Bipartisan Infra… [+2291 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "The Hummer EV e-bike is just as over the top and ridiculous as the electric truck it’s based on",
+      "description": "GMC announced a Hummer EV e-bike to complement its oversized electric truck. The company is licensing the Hummer brand to Recon, a major supplier of e-bikes to local police departments.",
+      "url": "https://www.theverge.com/2022/10/31/23433272/hummer-ev-ebike-recon-license-price-specs",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/r4wX0q-a_5-DBgHxFJStkzzeifU=/0x0:2048x1365/1200x628/filters:focal(1024x683:1025x684)/cdn.vox-cdn.com/uploads/chorus_asset/file/24156702/Hummer_front_Bike.jpeg",
+      "publishedAt": "2022-10-31T19:12:53Z",
+      "content": "The Hummer EV e-bike is just as over the top and ridiculous as the electric truck its based on\r\nThe Hummer EV e-bike is just as over the top and ridiculous as the electric truck its based on\r\n / GMC … [+2884 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Slack is rolling out typing indicators for threads",
+      "description": "Slack is now rolling out typing indicators in threads, and they’ve already dramatically improved my Slack experience in the few hours I’ve been able to use it.",
+      "url": "https://www.theverge.com/2022/10/31/23432945/slack-threads-typing-indicators",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OKnVDBw0QqVfr0WjOb3of76W2RA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg",
+      "publishedAt": "2022-10-31T18:47:47Z",
+      "content": "Slack is rolling out typing indicators for threads\r\nSlack is rolling out typing indicators for threads\r\n / I didnt know I needed typing indicators in threads until they started showing up\r\nSlack is n… [+1523 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ryan Broderick",
+      "title": "Jair Bolsonaro lost the Brazilian election, but he still has YouTube",
+      "description": "After Bolsonaro’s defeat in the Brazilian presidential election (and Luiz Inácio Lula da Silva’s victory), new questions arise about YouTube’s role in his rise to power.",
+      "url": "https://www.theverge.com/2022/10/31/23432854/bolsonaro-youtube-brazil-election-lula-victory-misinformation-telegram",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/baqcJKzR0unYStUGDUOWZoFUeuc=/0x0:4106x2737/1200x628/filters:focal(2306x929:2307x930)/cdn.vox-cdn.com/uploads/chorus_asset/file/24155798/1437752246.jpg",
+      "publishedAt": "2022-10-31T18:16:02Z",
+      "content": "Photo by Joao Laet/Getty Images\r\n\n \n\n\n He rose to power by exploiting online platforms — so what happens now that he lost? On Sunday night, former President Luiz Inácio Lula da Silva won the final ro… [+12461 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "Chrome’s new sidebar lets you blast through search results",
+      "description": "Google has added a feature to Chrome’s sidebar that lets you quickly look at and compare a bunch of search results without having to go back to the search page each time.",
+      "url": "https://www.theverge.com/2022/10/31/23433029/chrome-search-sidebar-results-shopping-track-prices",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/E6b1j-GfhifHqe2104XC6GwUHAc=/0x0:2036x1145/1200x628/filters:focal(1018x573:1019x574)/cdn.vox-cdn.com/uploads/chorus_asset/file/24156370/search_side_panel_2x.png",
+      "publishedAt": "2022-10-31T18:01:25Z",
+      "content": "Chromes new sidebar lets you blast through search results\r\nChromes new sidebar lets you blast through search results\r\n / For if you dont want to deal with going back and forth between the search page… [+2247 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Nibel is leaving Twitter, and you can (partially) blame Elon Musk",
+      "description": "The popular Twitter user best known for their reliable stream of gaming industry news announced today that they would be leaving the platform, citing a lack of financial support and concerns over Elon Musks’ leadership.",
+      "url": "https://www.theverge.com/2022/10/31/23433129/nibel-leaving-twitter-elon-musk-gaming-news-announcement",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9n-GiBZj3VWNKXBiJZdzH47ZIo4=/0x0:3200x2600/1200x628/filters:focal(1595x1696:1596x1697)/cdn.vox-cdn.com/uploads/chorus_asset/file/24156207/Nibel.jpg",
+      "publishedAt": "2022-10-31T17:55:49Z",
+      "content": "Nibel is leaving Twitter, and you can (partially) blame Elon Musk\r\nNibel is leaving Twitter, and you can (partially) blame Elon Musk\r\n / The reputable source of gaming news is departing the platform,… [+2418 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Severance adds Gwendoline Christie, Alia Shawkat, and more for season 2",
+      "description": "Apple has announced some of the new cast for season 2 of the streaming series Severance, including Gwendoline Christie, Bob Balaban, Merritt Wever, Alia Shawkat, Robby Benson, Stefano Carannante, Ólafur Darri Ólafsson, and John Noble.",
+      "url": "https://www.theverge.com/2022/10/31/23433190/severance-season-2-cast-gwendoline-christie-alia-shawkat",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gHl3x9lvnM06u6LV8YnheXYk8Ng=/0x0:7806x5224/1200x628/filters:focal(3903x2612:3904x2613)/cdn.vox-cdn.com/uploads/chorus_asset/file/24156417/1433937786.jpg",
+      "publishedAt": "2022-10-31T17:54:11Z",
+      "content": "Severance adds Gwendoline Christie, Alia Shawkat, and more for season 2\r\nSeverance adds Gwendoline Christie, Alia Shawkat, and more for season 2\r\n / The second season of Apple TV Plus workplace thril… [+1048 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "George Hotz, iPhone hacker and Elon Musk antagonist, is leaving Comma AI",
+      "description": "George Hotz is stepping down as CEO of Comma AI, a company he founded to build a driver-assist product that’s better than Tesla Autopilot.",
+      "url": "https://www.theverge.com/2022/10/31/23433110/george-hotz-comma-ai-step-down-driver-assist",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/aQwYCF4fcRvaXNuSPShiUrWRjuE=/0x0:1500x1000/1200x628/filters:focal(750x500:751x501)/cdn.vox-cdn.com/uploads/chorus_asset/file/6599947/mzelenko_230516_1078_0037.0.jpg",
+      "publishedAt": "2022-10-31T17:44:25Z",
+      "content": "George Hotz, iPhone hacker and Elon Musk antagonist, is leaving Comma AI\r\nGeorge Hotz, iPhone hacker and Elon Musk antagonist, is leaving Comma AI\r\n / Hotz founded the driver-assist technology compan… [+3291 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft promises to keep Call of Duty on PlayStation for as long as PlayStation exists",
+      "description": "Microsoft Gaming CEO Phil Spencer has been making clearer statements about the future of Call of Duty recently. It sounds like Microsoft will treat Call of Duty like Minecraft and keep it everywhere.",
+      "url": "https://www.theverge.com/2022/10/31/23433114/microsoft-call-of-duty-playstation-phil-spencer-comments",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/0omDr7_rQLEwxViz42G6TOlMMmA=/0x0:1000x563/1200x628/filters:focal(500x282:501x283)/cdn.vox-cdn.com/assets/1122730/modern_warfare_2.jpg",
+      "publishedAt": "2022-10-31T17:29:08Z",
+      "content": "Microsoft promises to keep Call of Duty on PlayStation for as long as PlayStation exists\r\nMicrosoft promises to keep Call of Duty on PlayStation for as long as PlayStation exists\r\n / Microsoft Gaming… [+2549 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "EA is teaming up with Marvel for ‘at least’ three new games",
+      "description": "EA and Marvel will be working together on “at least three” new action adventure games for console and PC. The first game in development is the already-announced Iron Man title.",
+      "url": "https://www.theverge.com/2022/10/31/23432986/ea-disney-marvel-iron-man-three-new-games-collaboration",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/IZYnuqLOofeIlgEAYXYWsdf5oMg=/0x0:1024x576/1200x628/filters:focal(512x288:513x289)/cdn.vox-cdn.com/uploads/chorus_asset/file/24156090/marvel_x_ea_featured_image_16x9.jpg.adapt.1024w.jpg",
+      "publishedAt": "2022-10-31T16:58:36Z",
+      "content": "EA is teaming up with Marvel for at least three new games\r\nEA is teaming up with Marvel for at least three new games\r\n / The first game in the works is the already-announced Iron Man title. Disney ap… [+1704 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Ralph Lauren redesigned its iconic logo for a Fortnite collab",
+      "description": "Fortnite and Ralph Lauren have partnered for a series of in-game skins and real-world clothing, which also includes a new llama-themed version of the Ralph Lauren logo.",
+      "url": "https://www.theverge.com/2022/10/31/23432549/ralph-lauren-fortnite-logo-collab-skins",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zdZ5CsyWtHRFOylzGsO0dhq6djg=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/24155392/FORTNITE_POLO_Logo.jpg",
+      "publishedAt": "2022-10-31T16:30:00Z",
+      "content": "Ralph Lauren redesigned its iconic logo for a Fortnite collab\r\nRalph Lauren redesigned its iconic logo for a Fortnite collab\r\n / The collaboration includes both real-world clothing and some in-game i… [+1994 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Makena Kelly",
+      "title": "Senator calls for investigation into Saudi stake in Elon’s Twitter buyout",
+      "description": "Sen. Chris Murphy is demanding that CFIUS open a national security review of Elon Musk’s Twitter takeover and its nearly $2 billion in Saudi investment.",
+      "url": "https://www.theverge.com/2022/10/31/23432961/elon-musk-twitter-cfius-review-national-security-treasury",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rhMZ8huyYlqZz1mQ73-gIyF19cI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906799/VRG_Illo_STK022_K_Radtke_Musk_Crazy.jpg",
+      "publishedAt": "2022-10-31T16:27:45Z",
+      "content": "Senator calls for investigation into Saudi stake in Elons Twitter buyout\r\nSenator calls for investigation into Saudi stake in Elons Twitter buyout\r\n / Saudis are reportedly the second largest investo… [+2198 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "The best thing about the new AirPods Pro is the extra small eartips",
+      "description": "Apple’s second-generation AirPods Pro come with a new extra small eartip size, and they might make Apple’s pro wireless earbuds a near-perfect fit for you. Technically, the new eartips are only available for the newer buds.",
+      "url": "https://www.theverge.com/2022/10/31/23432871/apple-airpods-pro-second-generation-extra-small-eartips",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EVPMi_SmtYjiSYUqCrMNi08XedY=/0x0:2040x1360/1200x628/filters:focal(906x585:907x586)/cdn.vox-cdn.com/uploads/chorus_asset/file/24040650/226285_AIRPODS_PRO_2_cwelch_0006.jpg",
+      "publishedAt": "2022-10-31T15:58:49Z",
+      "content": "The best thing about the new AirPods Pro is the extra small eartips\r\nThe best thing about the new AirPods Pro is the extra small eartips\r\n / Thanks to the new eartips, the AirPods Pro finally stay in… [+2764 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "SpaceX’s Falcon Heavy is scheduled to launch again after three years",
+      "description": "SpaceX’s Falcon Heavy is scheduled to launch on November 1st. The mission, USSF-44, is a National Security Space Launch for Space Force.",
+      "url": "https://www.theverge.com/2022/10/31/23432631/spacex-falcon-heavy-rocket-launch-space-force-national-security-mission",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jyBn7spDp5Xfg7R4_pWcLKIxut0=/0x0:4200x2524/1200x628/filters:focal(2100x1262:2101x1263)/cdn.vox-cdn.com/uploads/chorus_asset/file/24155812/1151760858.jpg",
+      "publishedAt": "2022-10-31T15:48:27Z",
+      "content": "SpaceXs Falcon Heavy is scheduled to launch again after three years\r\nSpaceXs Falcon Heavy is scheduled to launch again after three years\r\n / Its the first National Security Space Launch for the Falco… [+2130 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "TuSimple reportedly under investigation for ties to Chinese firm",
+      "description": "Autonomous trucking company TuSimple is under investigation by the FBI and SEC for allegedly failing to disclose its ties to a Chinese hydrogen trucking startup.",
+      "url": "https://www.theverge.com/2022/10/31/23432846/tusimple-self-driving-truck-investigation-fbi-sec-hydron",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/az80eCr2imy88uiEXaYrn5_Y6hw=/0x0:4928x3280/1200x628/filters:focal(2464x1640:2465x1641)/cdn.vox-cdn.com/uploads/chorus_asset/file/24155790/1237635951.jpg",
+      "publishedAt": "2022-10-31T15:34:00Z",
+      "content": "TuSimple reportedly under investigation for ties to Chinese firm\r\nTuSimple reportedly under investigation for ties to Chinese firm\r\n / The autonomous trucking companys problems are mounting as The Wa… [+2640 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "In defense of the voice message",
+      "description": "Almost as popular as voice messages themselves are articles about how awful they supposedly are. But like any form of communication, there are both good and bad ways to use voice notes. An etiquette is yet to develop.",
+      "url": "https://www.theverge.com/2022/10/31/23432534/voice-message-note-imessage-whatsapp-defense-etiquette",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/mc4WiX7UaQLQAX8cwV8gu0MojiU=/0x0:2040x1360/1200x628/filters:focal(1327x630:1328x631)/cdn.vox-cdn.com/uploads/chorus_asset/file/13635741/akrales_181218_2952_0084.jpg",
+      "publishedAt": "2022-10-31T14:55:05Z",
+      "content": "In defense of the voice message\r\nIn defense of the voice message\r\n / Despite their detractors, nothing beats the intimacy of hearing someones voice\r\nOver the past few months of peak TV, the voice mes… [+5799 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Instagram outage tells millions their accounts are suspended",
+      "description": "An Instagram outage Monday morning is telling many users their accounts have been suspended starting on October 31st. Meta confirmed the issue and says it’s looking into it.",
+      "url": "https://www.theverge.com/2022/10/31/23432703/instagram-down-outage-suspended-account-banned",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xda9zU-q5WE1Ylov_9baXp-whtg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932740/acastro_STK070__02.jpg",
+      "publishedAt": "2022-10-31T14:30:54Z",
+      "content": "Instagram outage tells millions their accounts are suspended\r\nInstagram outage tells millions their accounts are suspended\r\n / Instagram users either cant log in at all or theyre logging in and notic… [+1260 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "The new Fitbit Sense 2 is already 74 percent off at Amazon",
+      "description": "If you want an affordable fitness tracker with industry-leading features, the black Fitbit Sense 2 smartwatch is just $80 at Amazon. It just released in October 2022 for $299.95. This is a fantastic deal.",
+      "url": "https://www.theverge.com/2022/10/31/23432478/fitbit-sense-2-fitness-tracker-smartwatch-blink-mini-samsung-t7-shield-ssd-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/aMVQYek4vx-yAXBaVBtL_-ixaqo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24089895/226330_Fitbit_Sense_2_VSong_0006.jpg",
+      "publishedAt": "2022-10-31T13:43:18Z",
+      "content": "The new Fitbit Sense 2 is already 74 percent off at Amazon\r\nThe new Fitbit Sense 2 is already 74 percent off at Amazon\r\n / Overshadowed by Googles Pixel Watch, the latest (as well as the smartest) Fi… [+4568 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Person",
+      "title": "The Hunter Cat is a bodyguard for your credit card",
+      "description": "The same size and shape as a credit card, the Hunter Cat detects if a credit card skimmer is trying to steal your data at any given terminal.",
+      "url": "https://www.theverge.com/23424542/hunter-cat-credit-card-skimmer-reader-atm-stolen-cc-number-fraud",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/TFIdB115L5k_4OElS8rTeP9PwyQ=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24142245/Hunter_Cat_skimmer_detector.jpeg",
+      "publishedAt": "2022-10-31T13:30:00Z",
+      "content": "The Hunter Cat is a bodyguard for your credit card\r\nThe Hunter Cat is a bodyguard for your credit card\r\n / A single-purpose gadget to find out if a credit card reader is stealing your data\r\nSee if th… [+3727 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Amazon Fire TV Cube (2022) review: a streaming box with no equal",
+      "description": "Amazon’s latest Fire TV Cube is its most powerful yet and has an updated, fabric-covered design. It also adds ethernet, USB-A, and HDMI in ports. The latter lets you plug in external devices like cable boxes and still see on-screen overlays when you interact …",
+      "url": "https://www.theverge.com/23429259/amazon-fire-tv-cube-2022-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/W7Mc8fQlb6BCjbk6xDpOJs4nfIw=/0x0:2040x1360/1200x628/filters:focal(1368x555:1369x556)/cdn.vox-cdn.com/uploads/chorus_asset/file/24154402/DSCF0201.jpg",
+      "publishedAt": "2022-10-31T13:00:00Z",
+      "content": "The fastest Fire TV yet offers extensive hands-free voice controls that you cant get from any other streaming player, but it still puts too many ads in your face\r\nOct 31, 2022, 1:00 PM UTC|\r\nIf you b… [+12340 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "Why one web pioneer thinks it’s time to reinvent the browser",
+      "description": "Darin Fisher has worked on Netscape Navigator, Firefox, Chrome, and others. Now he’s joining The Browser Company to build Arc, a much-hyped new web browser. And he says it’s time for a change.",
+      "url": "https://www.theverge.com/2022/10/31/23428862/arc-browser-web-company-darin-fisher",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PEATIA7wfMUPq6kn8cMDx-x_1hE=/0x0:1600x1065/1200x628/filters:focal(800x533:801x534)/cdn.vox-cdn.com/uploads/chorus_asset/file/24149689/image1.jpg",
+      "publishedAt": "2022-10-31T13:00:00Z",
+      "content": "Darin Fisher has been building browsers for decades. | Image: Darin Fisher\r\n\n \n\n Darin Fisher has built a lot of web browsers. A lot of web browsers. He was a software engineer at Netscape early in h… [+9904 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Twitter is planning to start charging $20 per month for verification",
+      "description": "Twitter employees are racing to build the company's first major new feature under Elon Musk: a $20 per month subscription to be verified.",
+      "url": "https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/I6vUBFS-xdkxlNJXpDJRV9uVwWo=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926016/acastro_STK050_07.jpg",
+      "publishedAt": "2022-10-31T00:52:51Z",
+      "content": "Twitter is planning to start charging $20 per month for verification\r\nTwitter is planning to start charging $20 per month for verification\r\n / And if the employees building it dont meet their deadlin… [+1475 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Twitter battles hateful trolling campaign following Elon Musk's takeover",
+      "description": "Twitter’s working to put a stop to a trolling campaign that started sending out thousands of tweets containing slurs and derogatory terms after Elon Musk’s acquisition.",
+      "url": "https://www.theverge.com/2022/10/30/23431337/twitter-hateful-tweets-elon-musk-takeover-free-speech",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/I6vUBFS-xdkxlNJXpDJRV9uVwWo=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926016/acastro_STK050_07.jpg",
+      "publishedAt": "2022-10-30T20:06:54Z",
+      "content": "Twitter battles hateful trolling campaign following Elon Musk's takeover\r\nTwitter battles hateful trolling campaign following Elon Musk's takeover\r\n / Twitters head of safety and integrity says the p… [+3308 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Elon Musk wastes no time changing Twitter",
+      "description": "On his first day as Twitter’s new CEO, Elon Musk quietly changed the site’s homepage to send a message to employees. Meanwhile, he is preparing for mass layoffs.",
+      "url": "https://www.theverge.com/2022/10/30/23430008/elon-musk-twitter-homepage-subscriptions-changes",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/6RbRw7cjixkbZugZP-Ni2K-Cphg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24145502/226378_Twitter_Risk_Elon_Musk_Spot_WJoel.png",
+      "publishedAt": "2022-10-30T19:53:08Z",
+      "content": "Less than 24 hours after completing his $44 billion acquisition of Twitter, Elon Musk decided to change its homepage.\r\nHe requested that logged out users visiting Twitter.com be redirected to the Exp… [+5224 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Telegram pulls paywalled posts from iOS app due to App Store rules",
+      "description": "Telegram has removed the ability for users on iOS to create pay-to-view posts using third-party bots on the platform. CEO Pavel Durov blames Apple’s strict App Store policies for the feature’s removal.",
+      "url": "https://www.theverge.com/2022/10/30/23430234/telegram-pulls-paywalled-posts-ios-apple-app-store-rules-bots",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ci8lLrzieSRJuVDhVNNa9DBbPzw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24008017/acastro_STK085_Telegram_02.jpg",
+      "publishedAt": "2022-10-30T16:04:05Z",
+      "content": "Telegram pulls paywalled posts from iOS app due to App Store rules\r\nTelegram pulls paywalled posts from iOS app due to App Store rules\r\n / CEO Pavel Durov says creators have been using pay-to-view an… [+2602 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple’s 14- and 16-inch MacBook Pros might not arrive until next March",
+      "description": "The M2-equipped 14- and 16-inch MacBook Pros may launch in the first half of March 2023, according to a report from Bloomberg’s Mark Gurman.",
+      "url": "https://www.theverge.com/2022/10/30/23430949/apple-new-macbook-pro-14-16-arrive-next-march-rumors-m2",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3JS4dYNRnpRqBnHguzW6pN5wufA=/0x0:2040x1360/1200x628/filters:focal(1006x731:1007x732)/cdn.vox-cdn.com/uploads/chorus_asset/file/22948092/akrales_211020_4803_0201.jpg",
+      "publishedAt": "2022-10-30T14:43:31Z",
+      "content": "Apples 14- and 16-inch MacBook Pros might not arrive until next March\r\nApples 14- and 16-inch MacBook Pros might not arrive until next March\r\n / We probably wont see the upgraded MacBook Pros this ye… [+1894 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "The Libby app put a refuge in my pocket when I needed it most",
+      "description": "The Libby app gave me the ability to read for free at a time when I needed affordable access to ebooks the most. And it helped declutter my bookshelves at the same time.",
+      "url": "https://www.theverge.com/2022/10/30/23426867/libby-ebooks-library-reading-kindle",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vYI3ZuSb1odRwwHTUL4lJIDhyqI=/0x0:2040x1536/1200x628/filters:focal(1020x768:1021x769)/cdn.vox-cdn.com/uploads/chorus_asset/file/24148701/PXL_20221028_153550267.jpg",
+      "publishedAt": "2022-10-30T14:00:00Z",
+      "content": "The Libby app puts thousands of books into your pocket for free. | Photo by Victoria Song / The Verge\r\n\n \n\n\n I wanted the convenience of ebooks, the curation of a local bookstore, and the affordabili… [+4983 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Monica Chin",
+      "title": "Acer’s Chromebook Spin 714 is worse than its predecessor",
+      "description": "It’s fine but not as exceptional as the 713.",
+      "url": "https://www.theverge.com/23426924/acer-chromebook-spin-714-2022-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/oZ_cCiIDPKm8GkaAAy_7dvUH66c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23464328/bfarsace_160101_5219_0008.jpg",
+      "publishedAt": "2022-10-30T13:00:00Z",
+      "content": "Oct 30, 2022, 1:00 PM UTC|\r\nIf you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement.\r\nAcers Chromebook Spin 713 has been at the top of our Best Chromebook lis… [+8912 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Elon Musk reportedly ordered company-wide layoffs at Twitter",
+      "description": "According to a report from the New York Times, Elon Musk reportedly layoffs across the company, with some departments affected more than others.",
+      "url": "https://www.theverge.com/2022/10/29/23430332/elon-musk-twitter-reportedly-ordered-company-wide-layoffs",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KRy0LmMiYGhv3JJn53U3ZbKUidc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24090221/STK171_VRG_Illo_11_Normand_ElonMusk_11.jpg",
+      "publishedAt": "2022-10-29T21:40:19Z",
+      "content": "Elon Musk reportedly ordered company-wide layoffs at Twitter\r\nElon Musk reportedly ordered company-wide layoffs at Twitter\r\n / According to a report from The New York Times, Musk is looking to cut jo… [+1146 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Liam Hemsworth will play Geralt of Rivia in The Witcher’s fourth season",
+      "description": "Liam Hemsworth is replacing Henry Cavill as Geralt of Rivia in season 4 of The Witcher. Both actors shared the news on Instagram, with Hemsworth saying he’s “over the moon about the opportunity to play Geralt of Rivia.”",
+      "url": "https://www.theverge.com/2022/10/29/23430147/liam-hemsworth-replacing-henry-cavill-season-4-the-witcher-netflix",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2iWgqvFGwa47PVLD3mNugIE7dPI=/0x0:2400x3000/1200x628/filters:focal(1153x825:1154x826)/cdn.vox-cdn.com/uploads/chorus_asset/file/24151580/1141863486.jpg",
+      "publishedAt": "2022-10-29T19:35:56Z",
+      "content": "Liam Hemsworth will play Geralt of Rivia in The Witchers fourth season\r\nLiam Hemsworth will play Geralt of Rivia in The Witchers fourth season\r\n / Liam Hemsworth is replacing Henry Cavill in the Netf… [+1591 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alice Newcome-Beill",
+      "title": "The sequel to PC Building Simulator feels like it’s still under construction",
+      "description": "Just like building your own PC, the follow-up to PC Building Simulator is an educational, rewarding, and occasionally painful experience. Undercooked features and a myriad of bugs tarnish an otherwise solid sequel.",
+      "url": "https://www.theverge.com/2022/10/29/23422708/pc-building-simulator-2-game-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vhJzgpoDWBijCfLNmw6hf-Qwhyk=/0x0:2525x1415/1200x628/filters:focal(1263x708:1264x709)/cdn.vox-cdn.com/uploads/chorus_asset/file/24138988/Screenshot_2022_10_20_183021.jpg",
+      "publishedAt": "2022-10-29T18:00:00Z",
+      "content": "The customization options let you take things in some wild new directions with your builds | Image: Alice Newcome-Beill\r\n\n \n\n\n A host of bugs and undercooked features keep the addictive building simu… [+7720 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "iPhone 15 Pro models could ditch mechanical volume and power buttons",
+      "description": "The iPhone 15 Pro and Pro Max models could feature solid-state volume and power buttons, according to Apple analyst Ming-Chi Kuo.",
+      "url": "https://www.theverge.com/2022/10/29/23429915/iphone-15-ditch-mechanical-volume-power-buttons-solid-state-haptic-feedback-apple-rumors",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vCOngu1MmMTEp16RvLDw-4w0GlQ=/0x0:2040x1360/1200x628/filters:focal(1065x461:1066x462)/cdn.vox-cdn.com/uploads/chorus_asset/file/24020027/226270_iPHONE_14_PHO_akrales_0480.jpg",
+      "publishedAt": "2022-10-29T17:37:48Z",
+      "content": "iPhone 15 Pro models could ditch mechanical volume and power buttons\r\niPhone 15 Pro models could ditch mechanical volume and power buttons\r\n / Next years high-end iPhones could feature solid-state bu… [+1742 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alice Newcome-Beill",
+      "title": "Google’s versatile Nest Audio and Nest Hub Max are up to 50 percent off today",
+      "description": "You can find steep discounts on select Google devices this weekend, including the Nest Audio and Nest Hub Max, in addition to the Elgato Stream Deck XL, SanDisk’s 2TB Extreme Pro SSD, and Apple’s noise-canceling Beats Fit Pro.",
+      "url": "https://www.theverge.com/good-deals/2022/10/29/23428281/google-nest-audio-hub-max-beats-fit-pro-sandisk-extreme-pro-ssd-elgato-streamdeck-xl-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/f-zEZMrkPrTkqm53Ju0zM8E39a8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19170904/dseifert_190905_3634_0006.jpg",
+      "publishedAt": "2022-10-29T16:37:54Z",
+      "content": "Googles versatile Nest Audio and Nest Hub Max are up to 50 percent off today\r\nGoogles versatile Nest Audio and Nest Hub Max are up to 50 percent off today\r\n / You can also find the Elgato Stream Deck… [+6637 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Adi Robertson",
+      "title": "Will Elon Musk keep funding Twitter’s most interesting side project?",
+      "description": "Bluesky, the decentralized social networking project currently funded by Twitter, faces an uncertain future after Elon Musk’s acquisition.",
+      "url": "https://www.theverge.com/2022/10/29/23428241/elon-musk-twitter-bluesky-decentralized-social-networking-future",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rt_60fDQz5Qf88ot5HvqG0sbZ1s=/0x0:2030x2028/1200x628/filters:focal(1015x1014:1016x1015)/cdn.vox-cdn.com/uploads/chorus_asset/file/24149902/Screen_Shot_2022_10_28_at_5.10.04_PM.png",
+      "publishedAt": "2022-10-29T16:00:00Z",
+      "content": "Project Bluesky\r\n\n \n\n Elon Musk finally owns Twitter now. While Twitter’s users are still parsing what that means for them, we’ve got a general idea: laxer content moderation, fewer people keeping th… [+6542 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "GM pauses ads on Twitter after Elon Musk’s acquisition",
+      "description": "GM has temporarily halted paid advertising on Twitter after Telsa CEO Elon Musk completed his acquisition of the company. The automaker says it’s working with Twitter to “understand the direction of the platform” under Musk’s ownership.",
+      "url": "https://www.theverge.com/2022/10/29/23429776/gm-pauses-ads-twitter-elon-musk-takeover-tesla-content-moderation",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/h65pn6bUHvcbo3B7ftV-248SzC0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23382328/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.jpg",
+      "publishedAt": "2022-10-29T15:36:35Z",
+      "content": "GM pauses ads on Twitter after Elon Musks acquisition\r\nGM pauses ads on Twitter after Elon Musks acquisition\r\n / The automaker says its working with Twitter to understand the direction of the platfor… [+2318 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "Jordan Peele and Keke Palmer open up about evolving in the public eye and the trap of ‘elevated films’",
+      "description": "We sat down with Nope director Jordan Peele and star Keke Palmer to talk about making movies that leave people thinking — and all that buzz about Marvel’s Rogue.",
+      "url": "https://www.theverge.com/2022/10/29/23428409/jordan-peele-keke-palmer-nope-interview-spoilers-rogue",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ppDNIPlLfUPmMNMDhLkDqoITkp0=/0x0:2880x1586/1200x628/filters:focal(1440x793:1441x794)/cdn.vox-cdn.com/uploads/chorus_asset/file/24148736/Screen_Shot_2022_10_28_at_11.39.27_AM.png",
+      "publishedAt": "2022-10-29T13:00:00Z",
+      "content": "Jordan Peele and Keke Palmer. | Image: Universal Pictures\r\n\n \n\n\n Nope director Jordan Peele and star Keke Palmer have mixed feelings about how much is too much to know about a movie before you go see… [+5487 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Echo Dot with Clock (2022) review: a good time",
+      "description": "Speedier, bassier, and smarter, but now with no audio jack.",
+      "url": "https://www.theverge.com/23426830/echo-dot-with-clock-2022-fifth-gen-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Zo-MbKh1VXRjHo1POO0hJVsHa0U=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24139109/226372_Echo_Dot_Clock_5th_Gen_J_0006.jpg",
+      "publishedAt": "2022-10-29T12:00:00Z",
+      "content": "With better sound, faster responses, and more sensors, Amazons Echo Dot with Clock fifth-gen is more useful for your smart home and remains the best budget smart speaker you can buy.\r\nByJennifer Patt… [+15284 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "Lego is moving on from its Mindstorms educational robots",
+      "description": "Lego is discontinuing its Mindstorms line of educational robots, choosing to instead focus on its more school-focused Spike Prime platform.",
+      "url": "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pZ1iHore7VmYy-ZqixUcIay3Gf8=/165x160:1683x1166/1200x628/filters:focal(960x640:961x641)/cdn.vox-cdn.com/uploads/chorus_asset/file/24150262/51515_Lifestyle_06.jpg",
+      "publishedAt": "2022-10-29T00:18:20Z",
+      "content": "Lego is moving on from its Mindstorms educational robots\r\nLego is moving on from its Mindstorms educational robots\r\n / Its spiking the brand, and focusing on its Lego Education brand. \r\nAs reported b… [+1925 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "Apple’s first unionized workers say the company is withholding new benefits",
+      "description": "Workers at Apple’s unionized store in Maryland say that the company is spreading “misinformation” about whether it can provide them new benefits and that it’s not providing details so they can bargain for them.",
+      "url": "https://www.theverge.com/2022/10/28/23427577/apple-union-maryland-letter-benefits-contract",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ioXP09GeTx3QY0vxAYAfEsMgKUk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951262/VRG_Illo_N_Barclay_1_apple.jpg",
+      "publishedAt": "2022-10-28T21:51:25Z",
+      "content": "Apples first unionized workers say the company is withholding new benefits\r\nApples first unionized workers say the company is withholding new benefits\r\n / Organizers at Apples first unionized store i… [+3800 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "There are too many iPads, iPhones, and Apple Watches",
+      "description": "Apple once prided itself on fitting all its products onto a single table. But now, that’s given way to an increasingly confused product catalog that threatens the simplicity that made it a tech powerhouse in the first place.",
+      "url": "https://www.theverge.com/2022/10/28/23428601/apple-ipad-iphone-apple-watch-models-skus",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pzhbWdeN9aQ-0TDns9xHOsrXFCM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24128006/226361_Apple_iPad_10.9_10th_gen_DSeifert_0004.jpg",
+      "publishedAt": "2022-10-28T21:12:07Z",
+      "content": "There are too many iPads, iPhones, and Apple Watches\r\nThere are too many iPads, iPhones, and Apple Watches\r\n / Apples product catalog is becoming increasingly confusing, and its losing the simplicity… [+4125 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Honda sets up the first motorcycle battery swap station for its mobile power packs",
+      "description": "Honda has delivered its first station that lets electric motorcycle owners quickly swap batteries without waiting to charge. The first “Power Pack Exchanger e:” is for a Honda joint venture with Yamaha, Suzuki, and Kawasaki.",
+      "url": "https://www.theverge.com/2022/10/28/23428245/honda-power-pack-exchanger-e-mobility-battery-swap-station-competes-with-gogoro",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/X6Gs0oW8JM0n8vhLz_Jj6JgGFVA=/0x0:980x668/1200x628/filters:focal(490x334:491x335)/cdn.vox-cdn.com/uploads/chorus_asset/file/24149282/p221025eng_02.jpg",
+      "publishedAt": "2022-10-28T21:05:19Z",
+      "content": "Honda sets up the first motorcycle battery swap station for its mobile power packs\r\nHonda sets up the first motorcycle battery swap station for its mobile power packs\r\n / Gogoros got some big competi… [+2705 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "How to set up Google Home Household Routines",
+      "description": "Turn your smart lights on with a motion sensor or shut all your cameras off with a command. Here, we’ll show you how to put Google Home Routines — and its new starters — to work in your smart home.",
+      "url": "https://www.theverge.com/23428772/google-home-household-routines-how-to-set-up",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PyJRSpctliz3ecC-hO6kwIdwmBE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952405/HT023_smartHome_0001.jpg",
+      "publishedAt": "2022-10-28T20:48:30Z",
+      "content": "Learn how to use Google Home Routines in your smart home. | Illustration by Samar Haddad / The Verge\r\n\n \n\n\n Google Home is Google’s smart home ecosystem, where you can control all your compatible sma… [+8145 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "Unlocking your Meta Quest with SideQuest is a fun weekend project",
+      "description": "The Meta Quest is a great VR headset, but modding it to allow sideloaded content using the SideQuest app makes it even better for those of us who like to tinker.",
+      "url": "https://www.theverge.com/23416673/meta-quest-2-sidequest-unlock-how-to-install-beat-saber",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jHzkPuOK97JWYG5Ezi3Vzivfo9c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23971316/HT037_S_Haddad_VR.jpg",
+      "publishedAt": "2022-10-28T20:14:43Z",
+      "content": "Unlocking your Meta Quest with SideQuest is a fun weekend project\r\nUnlocking your Meta Quest with SideQuest is a fun weekend project\r\n / The relatively easy install lets you sideload apps and, more i… [+5862 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "Instagram and Facebook are down for some people",
+      "description": "Instagram and Facebook appear to be having issues, with the apps and sites not loading for some users and showing in strange ways for others.",
+      "url": "https://www.theverge.com/2022/10/28/23428969/instagram-facebook-not-loading-refresh-outage",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZNdjS2Rz8PBgXsMl8AenGzZAAwY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23904518/VRG_Illo_K_Radtke_STK070_Instagram_1.jpg",
+      "publishedAt": "2022-10-28T20:10:22Z",
+      "content": "Instagram and Facebook are down for some people\r\nInstagram and Facebook are down for some people\r\n / The sites and apps either completely fail to load or display in very odd ways\r\nIts not just you In… [+1136 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "Google wants Meet to run on more devices and work better with Zoom",
+      "description": "Google is making it so its Meet app for enterprise can run on Android-based devices, potentially expanding the stable of hardware its service can run on. It’s also making its hardware interoperable with Zoom.",
+      "url": "https://www.theverge.com/2022/10/28/23428527/google-meet-zoom-rooms-poly-studio-x-logitech-rally",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HKcFTFfPTGbZr6fZ3ZLigvk3Z98=/0x0:1600x724/1200x628/filters:focal(800x362:801x363)/cdn.vox-cdn.com/uploads/chorus_asset/file/24149182/Zoom_Meet_interop_in_meeting.max_1600x1600.jpg",
+      "publishedAt": "2022-10-28T19:42:50Z",
+      "content": "Google wants Meet to run on more devices and work better with Zoom\r\nGoogle wants Meet to run on more devices and work better with Zoom\r\n / The companys working on making its videoconferencing app mor… [+2497 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Driverless cars aren’t going away, but we need to lower our expectations about them",
+      "description": "Argo AI’s failure has led some to speculate that autonomous vehicles are a lost cause. But the technology works — just not in the way we originally predicted.",
+      "url": "https://www.theverge.com/2022/10/28/23427129/autonomous-vehicles-robotaxi-hype-failure-expectations",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vyAHqGgYbabIfjwNVDIK_SmYwzg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23252597/acastro_220216_STK003_0002.jpg",
+      "publishedAt": "2022-10-28T19:17:30Z",
+      "content": "Driverless cars arent going away, but we need to lower our expectations about them\r\nDriverless cars arent going away, but we need to lower our expectations about them\r\n / The failure of Argo AI may l… [+7502 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "People are pretending to be laid off Twitter employees carrying boxes outside of HQ",
+      "description": "On the day Elon Musk took over Twitter, people pretending to be laid-off Twitter employees carrying boxes, including one named “Rahul Ligma,” fooled the media.",
+      "url": "https://www.theverge.com/2022/10/28/23428775/twitter-fake-employee-layoff-rahul-ligma-elon-musk",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/CdqgYmRimpt9pxmH07LXxrEF25k=/0x0:4032x3024/1200x628/filters:focal(2016x1512:2017x1513)/cdn.vox-cdn.com/uploads/chorus_asset/file/24149338/IMG_7266.jpg",
+      "publishedAt": "2022-10-28T18:49:15Z",
+      "content": "Vjeran Pavic / The Verge\r\n\n \n\n In videos circulating on Twitter Friday morning, two men carrying boxes are seen standing near the entrance to Twitter’s San Francisco building, claiming to have been l… [+601 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "Elon Musk says Twitter will have a ‘content moderation council’",
+      "description": "Elon Musk, Twitter’s new owner, announced plans for a content moderation council to dictate policy and review major account reinstatements.",
+      "url": "https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AHeNVqcTkUBJdap91MkcBon5FY0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24090215/STK171_VRG_Illo_1_Normand_ElonMusk_001.jpg",
+      "publishedAt": "2022-10-28T18:43:44Z",
+      "content": "Elon Musk says Twitter will have a content moderation council\r\nElon Musk says Twitter will have a content moderation council\r\n / No major content decisions or account reinstatements will happen befor… [+1797 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Traffic jams are tied to lower birth weights, study finds",
+      "description": "Traffic congestion adds to health risks from vehicle emissions. Bad traffic jams are linked to lower birth weight, new research finds.",
+      "url": "https://www.theverge.com/2022/10/28/23426970/birth-weight-infant-traffic-congestion-lower-health",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/coy5xsdHHxlLdZl0ghcC4mpMq6Y=/0x0:7360x4912/1200x628/filters:focal(3680x2456:3681x2457)/cdn.vox-cdn.com/uploads/chorus_asset/file/24146814/1209802079.jpg",
+      "publishedAt": "2022-10-28T18:00:00Z",
+      "content": "Traffic jams are tied to lower birth weights, study finds\r\nTraffic jams are tied to lower birth weights, study finds\r\n / We already knew tailpipe pollution was bad, but traffic congestion can make th… [+3138 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mia Sato",
+      "title": "Snapchat is cutting payments for Spotlight content again",
+      "description": "Creators have been making tens of thousands of dollars on Spotlight, Snapchat’s TikTok competitor. Payments are now being cut again, with Snap telling Business Insider it would pay millions a year.",
+      "url": "https://www.theverge.com/2022/10/28/23428471/snapchat-spotlight-payments-tiktok-creator-fund",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/bCIu7cgL1OLX-mk8_9aVHfkRJcM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23982580/acastro_STK466_02.jpg",
+      "publishedAt": "2022-10-28T17:46:48Z",
+      "content": "Snapchat is cutting payments for Spotlight content again\r\nSnapchat is cutting payments for Spotlight content again\r\n / Creators have been making tens of thousands of dollars on Spotlight, Snapchats T… [+2383 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Signalis is old-school PlayStation-era horror at its best",
+      "description": "Signalis is out now on the PS4, Xbox One, PC, and Nintendo Switch. The survival horror game channels the best of classic PlayStation-era games like Resident Evil and Silent Hill.",
+      "url": "https://www.theverge.com/23428239/signalis-review-ps4-xbox-switch-pc",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ML1iaCTsPy3D8iF2pFqFJrN20vU=/0x0:1920x1080/1200x628/filters:focal(891x473:892x474)/cdn.vox-cdn.com/uploads/chorus_asset/file/24148361/w3aLZ1YI.png",
+      "publishedAt": "2022-10-28T16:30:00Z",
+      "content": "If you miss the days of old-school Resident Evil and Silent Hill, this is just the thing\r\nByAndrew Webster\r\nOct 28, 2022, 4:30 PM UTC|\r\nNew Resident Evil games are great, but theres still something a… [+4301 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ash Parrish",
+      "title": "PSA: streamers might want to disable music in Bayonetta 3 before playing",
+      "description": "As Bayonetta 3 launches on the Nintendo Switch today, streamers should be warned that the game’s theme, “Moonlight Serenade,” might trigger copyright strikes.",
+      "url": "https://www.theverge.com/2022/10/28/23428179/bayonetta-3-streamer-mode-nintendo-switch-platinum-games",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/LQzLWUz9707p4Egs437i1bmzVTU=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24148375/Switch_Bayonetta3_screen_79.jpg",
+      "publishedAt": "2022-10-28T14:46:35Z",
+      "content": "PSA: streamers might want to disable music in Bayonetta 3 before playing\r\nPSA: streamers might want to disable music in Bayonetta 3 before playing\r\n / The games embargo warns of potential copyright s… [+2086 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tim Stevens",
+      "title": "Volvo C40 Recharge review: Volvo’s little electric rocket ship",
+      "description": "Volvo’s C40 Recharge is a delightful electric rocket ship of a car, with a better price than a Tesla Model Y and enough range to get you where you need to go.",
+      "url": "https://www.theverge.com/2022/10/28/23424776/volvo-c40-recharge-review-specs-range-price",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/hG7XMJrYlxBecle4MeWiTo6mOEk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24144032/226373_Volvo_C40_TStevens_0003.jpg",
+      "publishedAt": "2022-10-28T14:40:02Z",
+      "content": "More and more manufacturers are rolling out their second or even third generation of EVs, battery-powered cars rolling on chassis specifically designed to hold electric motors, not engines. Meanwhile… [+8669 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "How to set up Bedtime mode in Android 13",
+      "description": "Setting up Bedtime mode in Android 13 might help you get to bed at a reasonable time and stay on schedule in the morning. And since it runs on a schedule, you can set it and forget it.",
+      "url": "https://www.theverge.com/23427231/android-13-bedtime-mode-google-pixel-how-to",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/McfQn11RAcINm5HJpTL3TB3i198=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23941342/VRG_Illo_S_Haddad_HT005_android_galaxy.jpg",
+      "publishedAt": "2022-10-28T14:00:00Z",
+      "content": "How to set up Bedtime mode in Android 13\r\nHow to set up Bedtime mode in Android 13\r\n / Bedtime mode can help you wind down at night and keep you on schedule in the morning\r\nBedtime mode is one of tho… [+3539 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "NBA 2K League bans players for gambling on league games",
+      "description": "The NBA 2K League has announced that six players and a coach have been suspended from the esports league for a gambling controversy.",
+      "url": "https://www.theverge.com/2022/10/28/23428130/nba-2k-league-gambling-ban",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3dvwIWxhAFNpirCmZPnKHDvvICM=/0x0:4912x3275/1200x628/filters:focal(2456x1638:2457x1639)/cdn.vox-cdn.com/uploads/chorus_asset/file/24148207/1242765123.jpg",
+      "publishedAt": "2022-10-28T13:51:56Z",
+      "content": "NBA 2K League bans players for gambling on league games\r\nNBA 2K League bans players for gambling on league games\r\n / Six players and a coach have been disqualified indefinitely from the esports leagu… [+1816 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "The Xbox Series S comes with the latest Call of Duty for free",
+      "description": "The best deal around right now is at Target, where you can get Call of Duty: Modern Warfare 2 for free with the purchase of an Xbox Series S. Other great deals include up to $80 off HBO Max yearly subscriptions, Sonos price cuts, and more.",
+      "url": "https://www.theverge.com/2022/10/28/23428089/xbox-series-s-call-of-duty-2-target-game-sonos-beam-sub-one-hbo-max-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/G9syjQpeiiCT0BF8CuthcDpJslY=/0x0:3840x2160/1200x628/filters:focal(1364x1001:1365x1002)/cdn.vox-cdn.com/uploads/chorus_asset/file/23613536/Ghost_UNBRANDED.png",
+      "publishedAt": "2022-10-28T13:35:12Z",
+      "content": "The Xbox Series S comes with the latest Call of Duty for free at Target\r\nThe Xbox Series S comes with the latest Call of Duty for free at Target\r\n / Through Saturday, you can get a complimentary digi… [+4054 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "Welcome to hell, Elon",
+      "description": "Elon Musk now owns Twitter — and a huge number of impossible political problems around speech, content moderation, and trying to make money.",
+      "url": "https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AMt9GnYRMa1CZ7NV1jqK72Kti3g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/20086188/acastro_200715_1777_twitter_0001.0.jpg",
+      "publishedAt": "2022-10-28T13:02:57Z",
+      "content": "You fucked up real good, kiddo.\r\nTwitter is a disaster clown car company that is successful despite itself, and there is no possible way to grow users and revenue without making a series of enormous … [+6517 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dan Seifert",
+      "title": "Apple iPad Pro (2022) review: bump the chip",
+      "description": "Apple’s latest iPad Pro has one upgrade from last year: a new processor. That enables a new feature for the Apple Pencil and is technically faster than the old one. But since this year’s update is so small, here’s a wish list for things when Apple does redesi…",
+      "url": "https://www.theverge.com/23427142/apple-ipad-pro-12-9-2022-tablet-ipados-apple-pencil-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dYNqM6ULOAAytcWFLckEgOxYl9s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24143274/226374_iPad_Pro_12.9_M2_2022_DSeifert_0001.jpg",
+      "publishedAt": "2022-10-28T13:00:00Z",
+      "content": "Its a weird year for the iPad Pro. Apples top-of-the-line tablet computer has gotten one of its smallest upgrades in recent memory, while the new 10th-gen iPad received things Pro owners have been lo… [+10606 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lizzie Philip",
+      "title": "The future of solid-state batteries could be 3D-printed",
+      "description": "The next generation of batteries needs more power and better safety. There’s lots of R&D happening around solid-state batteries and what materials could maximize their energy density. With 3D printing, they could also take on more customized shapes.",
+      "url": "https://www.theverge.com/23421215/solid-state-batteries-future-3d-printed",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PmFzEmwn5n0hpOrtQtygbC70i_Q=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24146874/Solid_State_Batteries.jpeg",
+      "publishedAt": "2022-10-28T13:00:00Z",
+      "content": "The future of solid-state batteries could be 3D-printed\r\nThe future of solid-state batteries could be 3D-printed\r\n / That means batteries could have customized shapes\r\nThe race to create a solid-stat… [+1364 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Casey Newton",
+      "title": "How weak leadership cratered Twitter’s morale",
+      "description": "As Elon Musk takes control of Twitter, he’ll inherit a company suffering a morale crisis, as shown in internal surveys from 2019 to 2022.",
+      "url": "https://www.theverge.com/2022/10/28/23428103/twitter-morale-weak-leadership-elon-musk-parag-agrawal",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2hKyPyHYth1o-C3Dlk_alBZRzhs=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951434/acastro_STK050_08.jpg",
+      "publishedAt": "2022-10-28T12:40:00Z",
+      "content": "Alex Castro / The Verge\r\n\n \n\n\n Internal surveys from 2019 to 2022 show that the company’s morale crisis predates Elon Musk Just over six months from the day Elon Musk announced his intention to buy T… [+10138 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Six spooky new things to stream this Halloween",
+      "description": "Streaming services like Netflix, Hulu, and Disney Plus have some great new Halloween movies and shows, including Wendell & Wild and Guillermo del Toro’s Cabinet of Curiosities.",
+      "url": "https://www.theverge.com/2022/10/28/23420547/disney-hulu-netflix-del-toro-hellraiser-halloween-streaming",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/TPuT551klY286IYGUtxBK-kkOw4=/0x0:3600x2400/1200x628/filters:focal(1950x1052:1951x1053)/cdn.vox-cdn.com/uploads/chorus_asset/file/24135740/GDT_AUTOPSY_Unit_02567RC.jpg",
+      "publishedAt": "2022-10-28T12:30:00Z",
+      "content": "From black-and-white superhero stories to stop-motion family films, the streaming services have plenty of new stuff to freak you out this spooky season.\r\nByAndrew Webster\r\nOct 28, 2022, 12:30 PM UTC|… [+2934 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Xbox and PC players can’t disable crossplay in Call of Duty: Modern Warfare 2",
+      "description": "Call of Duty: Modern Warfare 2 only allows PlayStation players to fully disable crossplay. It’s the same as Call of Duty: Warzone for Xbox and PC players.",
+      "url": "https://www.theverge.com/2022/10/28/23428075/call-of-duty-modern-warfare-2-crossplay-xbox-pc",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4kcO3M20KtePs-RK5v0tFNcgQ8w=/0x0:1920x1090/1200x628/filters:focal(960x545:961x546)/cdn.vox-cdn.com/uploads/chorus_asset/file/24148157/MWII_000_ARTREVEAL_TOUT.jpg",
+      "publishedAt": "2022-10-28T12:20:02Z",
+      "content": "Xbox and PC players cant disable crossplay in Call of Duty: Modern Warfare 2\r\nXbox and PC players cant disable crossplay in Call of Duty: Modern Warfare 2\r\n / Activision has once again stopped Xbox a… [+1587 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elizabeth Lopatto",
+      "title": "A brief history of Elon Musk sabotaging Matt Levine’s time off",
+      "description": "While Levine was covering the Twitter deal, he also wrote a whole issue of Businessweek. How did he do it? “I type really fast.”",
+      "url": "https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fiLi8LRlzWDdEDZBVtelNVyXKnU=/0x0:2040x1360/1200x628/filters:focal(1104x312:1105x313)/cdn.vox-cdn.com/uploads/chorus_asset/file/24090210/STK171_VRG_Illo_12_Normand_ElonMusk_12.jpg",
+      "publishedAt": "2022-10-28T11:30:00Z",
+      "content": "“My life has not been ruined by having to write about Elon Musk on Saturdays.” | Laura Normand / The Verge\r\n\n \n\n Matt Levine would like you to know that Elon Musk does not actually ruin all of his va… [+6428 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Dark Souls 2’s PC servers are back online, but its predecessor’s remain absent",
+      "description": "Online features for Dark Souls 2: Scholar of the First Sin, a remastered version of the second game in the series, are back online. But while the remastered original game is coming back, the original Prepare to Die Edition isn’t.",
+      "url": "https://www.theverge.com/2022/10/28/23428060/dark-souls-2-pc-servers-online-exploit-prepare-to-die-scholars-of-the-first-sin",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wu2yK9qifK9pYqSw6elU8mgSYqw=/0x0:1620x1080/1200x628/filters:focal(810x540:811x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24148099/ss_3b2006322099225a4ea8f17830b4b9fbd2f78864.jpg",
+      "publishedAt": "2022-10-28T11:15:37Z",
+      "content": "Dark Souls 2s PC servers are back online, but its predecessors remain absent\r\nDark Souls 2s PC servers are back online, but its predecessors remain absent\r\n / Online play was disabled in January afte… [+1341 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "James Vincent",
+      "title": "EU approves effective ban on new combustion engine cars from 2035",
+      "description": "EU lawmakers have approved legislation that would effectively ban the production of new vans and cars powered by combustion engines from 2035. It still needs to be adopted formally into law but will push the global transport industry towards electrification.",
+      "url": "https://www.theverge.com/2022/10/28/23428013/eu-ban-combustion-engine-cars-vans-2035-law",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/LWjW-TTqwcJWPr5WfGrLoekDmCI=/0x0:5400x3435/1200x628/filters:focal(2700x1718:2701x1719)/cdn.vox-cdn.com/uploads/chorus_asset/file/24148070/1244104481.jpg",
+      "publishedAt": "2022-10-28T10:27:43Z",
+      "content": "EU approves effective ban on new combustion engine cars from 2035\r\nEU approves effective ban on new combustion engine cars from 2035\r\n / Cars and vans built after 2030 will also have to reduce emissi… [+3643 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Redmi says its new phone can be charged in nine minutes at 210W",
+      "description": "The Redmi Note 12 Discovery Edition is a midrange smartphone that supports its 210W HyperCharge fast charging standard. It also has a 200-megapixel camera, but is only releasing in China for now.",
+      "url": "https://www.theverge.com/2022/10/28/23428023/redmi-note-12-discovery-edition-210w-fast-charging-200mp-camera-release-date-price-features",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/hnZ2-Z1eoGlBddlBv6YbNf276K4=/0x0:2026x1351/1200x628/filters:focal(1013x676:1014x677)/cdn.vox-cdn.com/uploads/chorus_asset/file/24148050/Unknown_6.jpg",
+      "publishedAt": "2022-10-28T09:50:21Z",
+      "content": "Redmi says its new phone can be charged in nine minutes at 210W\r\nRedmi says its new phone can be charged in nine minutes at 210W\r\n / The Note 12 Discovery Edition is launching in China this month\r\nXi… [+2622 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Nothing Ear Stick review: fewer features, more polish",
+      "description": "The Ear Stick feel like a pair of earbuds from a company that’s learning its lessons. The user experience is far better than the Ear 1, with fewer connectivity and charging issues. It’s just a shame there’s no ANC or wireless charging.",
+      "url": "https://www.theverge.com/23426576/nothing-ear-stick-true-wireless-headphones-earbuds-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9_XaV9r1tczl1xrCvH1xWQB_mTU=/0x0:2040x1360/1200x628/filters:focal(1017x677:1018x678)/cdn.vox-cdn.com/uploads/chorus_asset/file/24147171/226379_Nothing_Ear_Stick_BFarsace_0007.jpg",
+      "publishedAt": "2022-10-28T09:00:00Z",
+      "content": "Nothing has ironed out the kinks of its debut pair of earbuds with the Ear Stick. But in the process its dropped some of the features that made the Ear 1s competitive.\r\nByJon Porter / @JonPorty\r\nOct … [+9095 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "YouTube’s finally adding more separation between shorts and regular videos",
+      "description": "YouTube is changing up the channel view, adding separate tabs for shorts and live streams, rather having all a creator’s content under a single videos tab.",
+      "url": "https://www.theverge.com/2022/10/28/23427585/youtube-shorts-videos-live-tabs-channels",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/6MSmwsEJmoiz0-V4ohubC-cDXG0=/0x0:7832x4184/1200x628/filters:focal(3916x2092:3917x2093)/cdn.vox-cdn.com/uploads/chorus_asset/file/24147801/message_185994851_10610601919851373001.png",
+      "publishedAt": "2022-10-28T04:16:47Z",
+      "content": "YouTubes finally adding more separation between shorts and regular videos\r\nYouTubes finally adding more separation between shorts and regular videos\r\n / Its giving them their own tab on creators chan… [+1997 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "Rihanna’s Black Panther single ‘Lift Me Up’ is finally here",
+      "description": "Ahead of Marvel’s Black Panther: Wakanda Forever’s release on November 11th, Rihanna has released “Lift Me Up” from the movie’s soundtrack — her first new solo song in years.",
+      "url": "https://www.theverge.com/2022/10/28/23427207/rihanna-lift-me-up-black-panther-wakanda-forever-streaming",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fnLQkrKID_QzA0aEOGVcigf4sPE=/0x0:4500x3000/1200x628/filters:focal(2038x1340:2039x1341)/cdn.vox-cdn.com/uploads/chorus_asset/file/24146638/1436968351.jpg",
+      "publishedAt": "2022-10-28T04:15:14Z",
+      "content": "Rihannas Black Panther single Lift Me Up is finally here\r\nRihannas Black Panther single Lift Me Up is finally here\r\n / The long wait for new music from Rihanna is finally over with the arrival of Lif… [+1244 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Enola Holmes 2 has all the fun and charm a family-friendly action movie needs",
+      "description": "Millie Bobby Brown and Henry Cavill return in Enola Holmes 2, a family-friendly action movie that starts streaming on Netflix on November 4th.",
+      "url": "https://www.theverge.com/23424572/enola-holmes-2-review-netflix",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OQCsOehSgSHnRu5ly2y8_TGzwA8=/0x0:7200x4800/1200x628/filters:focal(3600x2400:3601x2401)/cdn.vox-cdn.com/uploads/chorus_asset/file/24142450/EH2_20211020_06768_R.JPG",
+      "publishedAt": "2022-10-28T02:00:00Z",
+      "content": "The sequel doesnt do all that much new, but its a solid take on a dying breed of film\r\nByAndrew Webster\r\nOct 28, 2022, 2:00 AM UTC|\r\nEnola Holmes 2 doesnt waste any time getting to what it does best:… [+4399 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elizabeth Lopatto",
+      "title": "Twitter is now an Elon Musk company",
+      "description": "Elon Musk’s $44 billion acquisition of Twitter is complete, the company has confirmed. Former CEO Parag Agrawal, along with CFO Ned Segal and policy chief Vijaya Gadde have reportedly been fired.",
+      "url": "https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/88fSb8bd5QmZ-mQtl0AGjH_DM8A=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24090219/STK171_VRG_Illo_13_Normand_ElonMusk_13.jpg",
+      "publishedAt": "2022-10-28T00:54:00Z",
+      "content": "Twitter is now an Elon Musk company\r\nTwitter is now an Elon Musk company\r\n / Twitters current CEO, CFO, and policy chief have left the building.\r\nElon Musk, Twitters most important shitposter, has of… [+3694 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Twitter’s employees await their fate under Elon Musk",
+      "description": "With Elon Musk’s $44 billion acquisition of Twitter set to close on Friday, employees are mostly in the dark.",
+      "url": "https://www.theverge.com/2022/10/27/23427453/twitter-employees-wait-for-elon-musk-takeover-to-close",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/6RbRw7cjixkbZugZP-Ni2K-Cphg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24145502/226378_Twitter_Risk_Elon_Musk_Spot_WJoel.png",
+      "publishedAt": "2022-10-28T00:00:49Z",
+      "content": "Twitters employees await their fate under Elon Musk\r\nTwitters employees await their fate under Elon Musk\r\n / With a frozen code base and an absent CEO, employees are waiting for Musk to address them … [+3137 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Walmart stores are adding a Netflix section with gift cards and gear",
+      "description": "Walmart and Netflix are expanding their digital Netflix merch shop, The Netflix Hub, to more than 2,400 physical stores. The expansion marks the latest way Netflix is trying to grow its business following some rough subscriber numbers earlier this year.",
+      "url": "https://www.theverge.com/2022/10/27/23427486/netflix-walmart-stores-hub-section-gift-cards-gear",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HTFnJ8sYfGjqfHivme0qmZP3mAc=/0x0:4477x2985/1200x628/filters:focal(2239x1493:2240x1494)/cdn.vox-cdn.com/uploads/chorus_asset/file/24147131/1244246650.jpg",
+      "publishedAt": "2022-10-27T23:35:03Z",
+      "content": "Walmart stores are adding a Netflix section with gift cards and gear\r\nWalmart stores are adding a Netflix section with gift cards and gear\r\n / The Netflix Hub is coming to more than 2,400 Walmart sto… [+1484 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "Intel layoffs are coming in Q4 as it cuts billions in spending",
+      "description": "Intel’s restructuring moves include a target to reduce costs by $3 billion in 2023 and $8 to $10 billion by the end of 2025. The company revealed layoffs will be included in the cuts during its earnings call today.",
+      "url": "https://www.theverge.com/2022/10/27/23427403/intel-q3-2022-layoffs-billions-cost-reductions",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/oqPqjuccXP46y-b7gMgKAQNtWeo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002573/acastro_STK094_02.jpg",
+      "publishedAt": "2022-10-27T22:23:06Z",
+      "content": "Intel layoffs are coming in Q4 as it cuts billions in spending\r\nIntel layoffs are coming in Q4 as it cuts billions in spending\r\n / The company announced its making cuts in both operations and sales d… [+2221 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Apple reports another record quarter but shows signs of lukewarm iPhone 14 demand",
+      "description": "Apple recorded a record September quarter in its Q4 2022 earnings report on Thursday. But iPhone revenue came in below expectations, hinting at softer-than-expected demand for the company’s latest flagship phones.",
+      "url": "https://www.theverge.com/2022/10/27/23427035/apple-q4-2022-earnings-iphone-14-sales-mac-services",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EEBmDh6emjqUa-wKnQI-JyZ-7lQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23598986/VRG_Illo_5258_K_Radtke_WWDC.jpg",
+      "publishedAt": "2022-10-27T21:03:19Z",
+      "content": "Apple reports another record quarter but shows signs of lukewarm iPhone 14 demand\r\nApple reports another record quarter but shows signs of lukewarm iPhone 14 demand\r\n / Mac, services, and wearables w… [+2579 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Amazon’s sales are up, but it’s expecting a tight holiday season",
+      "description": "Amazon’s sales finally picked up in the third quarter following three consecutive quarters of single-digit growth, but it’s expecting a tighter holiday season amid an uncertain economic environment.",
+      "url": "https://www.theverge.com/2022/10/27/23416918/amazon-q3-2022-earnings-sales-up-holiday-season-andy-jassy",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/YsSwJjeePniOk01QDHeAsuHaotg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg",
+      "publishedAt": "2022-10-27T21:02:10Z",
+      "content": "Amazons sales are up, but its expecting a tight holiday season\r\nAmazons sales are up, but its expecting a tight holiday season\r\n / Amazon finally returned to double-digit sales growth this quarter bu… [+2459 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "Valve’s new beta lets you use the Steam Deck UI on your desktop",
+      "description": "Valve is bringing the Steam Deck UI to desktops as a replacement for its current version of the controller-focused Big Picture mode. It’s currently in beta, but here’s how to try it out.",
+      "url": "https://www.theverge.com/2022/10/27/23426994/valve-steam-deck-big-picture-mode-ui-test-beta",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/aTx6-qcGUS3mNc35mfSE9bMhjW0=/0x0:2560x1440/1200x628/filters:focal(491x382:492x383)/cdn.vox-cdn.com/uploads/chorus_asset/file/24146421/2022_10_27_11_31_09_SP_1.png",
+      "publishedAt": "2022-10-27T19:37:05Z",
+      "content": "Valves new beta lets you use the Steam Deck UI on your desktop\r\nValves new beta lets you use the Steam Deck UI on your desktop\r\n / Its a big improvement for Big Picture mode, but there are some rough… [+2176 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Apple flexes its control over the App Store",
+      "description": "Apple this week shook up the App Store with new rules and ad slots designed to wring more money out of its tight grip over the iOS ecosystem. The changes have big ramifications for developers, who don’t have much room to push back.",
+      "url": "https://www.theverge.com/2022/10/27/23426993/apple-app-store-rules-guidelines-ads-changes-flexes-control",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RKeBaEajQcEIMeDqYJuqm__zQC0=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23925966/acastro_STK045_01.jpg",
+      "publishedAt": "2022-10-27T18:45:44Z",
+      "content": "Apple flexes its control over the App Store\r\nApple flexes its control over the App Store\r\n / The new App Store rules and ad placements have big ramifications for developers. But as developers have fo… [+6217 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "Wendell & Wild is a classic Henry Selick joint about living with your personal demons",
+      "description": "Netflix’s Wendell & Wild — out October 28th — starring Lyric Ross, Jordan Peele, and Kegan-Michael Key feels like an instant classic and a return to form for director Henry Selick.",
+      "url": "https://www.theverge.com/2022/10/27/23424396/wendell-and-wild-review-jordan-peele-henry-sellick",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/a5dKiW2Ad61ptI1zv0oL5QVwoOU=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/24142203/0600_KPNK.0330.fin.v01.jpg",
+      "publishedAt": "2022-10-27T18:11:47Z",
+      "content": "Netflixs Wendell &amp; Wild, starring Lyric Ross, Jordan Peele, and Kegan-Michael Key, feels like an instant classic tailor-made for all the young punks too cool for school\r\nByCharles Pulliam-Moore\r\n… [+5042 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Here’s why your Uber driver is going to be taking fewer left turns in the future",
+      "description": "Uber said it would be rerouting drivers so they’ll take fewer left turns in an effort to reduce dangerous driving. The company is also expanding its testing of in-car audio and video recording.",
+      "url": "https://www.theverge.com/2022/10/27/23426721/uber-safety-left-turn-audio-video-recording-fake-names",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Au8yZ12sDTXXike7a_TueUTHq_E=/0x0:4226x2817/1200x628/filters:focal(2113x1409:2114x1410)/cdn.vox-cdn.com/uploads/chorus_asset/file/24145604/1396354990.jpg",
+      "publishedAt": "2022-10-27T18:00:00Z",
+      "content": "Heres why your Uber driver is going to be taking fewer left turns in the future\r\nHeres why your Uber driver is going to be taking fewer left turns in the future\r\n / Uber announced a number of new fea… [+2534 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Netflix’s new multiverse Sonic show debuts in December",
+      "description": "Netflix’s new Sonic Prime series will premiere on December 15th. Based on some early plot details, it seems like Sonic will have to deal with some major multiverse shenanigans.",
+      "url": "https://www.theverge.com/2022/10/27/23426836/netflix-sonic-prime-show-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qDHziAr24TAoG1sx4enta-6T3V8=/0x0:728x1080/1200x628/filters:focal(367x396:368x397)/cdn.vox-cdn.com/uploads/chorus_asset/file/24145965/FgFbk5rVEAIdrar.jpeg",
+      "publishedAt": "2022-10-27T17:37:02Z",
+      "content": "It seems like we’re getting a Sonic multiverse show. | Image: Netflix\r\n\n \n\n Netflix’s Sonic Prime, a new animated series starring Sega’s iconic blue hedgehog, will premiere on December 15th, Netflix … [+647 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "There was a record-breaking increase in methane in Earth’s atmosphere last year",
+      "description": "Methane emissions built up to record-breaking levels in the atmosphere in 2021, according to a recent report from the World Meteorological Organization.",
+      "url": "https://www.theverge.com/2022/10/27/23426375/record-breaking-increase-methane-greenhouse-gas-atmosphere-2021",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RFtoLSMtYHFtG3E0sBbRwXPZa-s=/0x0:5760x3796/1200x628/filters:focal(2880x1898:2881x1899)/cdn.vox-cdn.com/uploads/chorus_asset/file/24145800/1351224007.jpg",
+      "publishedAt": "2022-10-27T17:32:22Z",
+      "content": "There was a record-breaking increase in methane in Earths atmosphere last year\r\nThere was a record-breaking increase in methane in Earths atmosphere last year\r\n / Methane is an even more powerful gre… [+4418 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Monica Chin",
+      "title": "Lenovo pinky-swears that it learned from the mistakes of the ThinkPad X1 Fold",
+      "description": "The second X1 Fold is coming out this year, and the company claims it’s fixed the problems the first one had. We spoke to Brian Leonard, the company’s VP of Design, about what the team has learned.",
+      "url": "https://www.theverge.com/2022/10/27/23426492/lenovo-thinkpad-x1-fold-gen-2-17-inch-foldable-laptop-pc",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Jlrn0xMR8C48HdtElpuC-rH0nWE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22146172/akrales_201203_4316_0052.0.jpg",
+      "publishedAt": "2022-10-27T17:27:47Z",
+      "content": "It won’t just be another one of these, they claim. | Photo by Amelia Holowaty Krales / The Verge\r\n\n \n\n Laptops are a mature category, and foldable screens are arguably one of the last frontiers. Seve… [+4979 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "The Tesla Cyberquad for kids has been recalled for not meeting safety standards",
+      "description": "Radio Flyer is issuing a recall of the Tesla Cyberquad ATV for kids, a $1,900 vehicle sold on the automaker’s website. It doesn’t meet federal safety regulations.",
+      "url": "https://www.theverge.com/2022/10/27/23426752/tesla-cyberquad-toy-atv-recall-radio-flyer",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/M4HCsLTsXSeYyQkPh5OcGFbguWQ=/0x0:1200x800/1200x628/filters:focal(681x395:682x396)/cdn.vox-cdn.com/uploads/chorus_asset/file/24145819/WFLnzpB.jpg",
+      "publishedAt": "2022-10-27T16:57:38Z",
+      "content": "The Tesla Cyberquad for kids has been recalled for not meeting safety standards\r\nThe Tesla Cyberquad for kids has been recalled for not meeting safety standards\r\n / The electric vehicle, modeled afte… [+2047 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Tesla’s latest recall can’t be solved with a software update",
+      "description": "Tesla is recalling 24,000 Model 3 vehicles that may have an improperly secured rear-left seat belt buckle and / or center seat anchor. The issue stems from improper reassembly of the components after a previous service center visit.",
+      "url": "https://www.theverge.com/2022/10/27/23426298/tesla-model-3-recall-loose-seatbelts",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZNYdzGsXf27bzeavaTylM4UyUM0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986647/acastro_STK086_02.jpg",
+      "publishedAt": "2022-10-27T16:27:12Z",
+      "content": "Teslas latest recall cant be solved with a software update\r\nTeslas latest recall cant be solved with a software update\r\n / Its a surprise rare physical safety recall affecting over 24,000 Model 3 car… [+4008 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Makena Kelly",
+      "title": "DC sues Shipt for misclassifying drivers as independent contractors",
+      "description": "DC Attorney General Karl Racine sued Shipt, a gig delivery company, for misclassifying full-time workers as independent contractors in order to “cheat” them out of wages and avoid payroll taxes.",
+      "url": "https://www.theverge.com/2022/10/27/23426668/shipt-uber-lyft-gig-economy-contractors-employees-dc-racine-attorney-general",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/GIb8U8eW3RdaY0E2QSx9E6kPmV0=/0x0:4291x2817/1200x628/filters:focal(2146x1409:2147x1410)/cdn.vox-cdn.com/uploads/chorus_asset/file/24145547/1173429553.jpg",
+      "publishedAt": "2022-10-27T16:22:52Z",
+      "content": "DC sues Shipt for misclassifying drivers as independent contractors\r\nDC sues Shipt for misclassifying drivers as independent contractors\r\n / The suit follows moves from the Biden administration to cl… [+2612 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Ford thinks driver assist is a safer bet than driverless cars, but it’s fooling itself",
+      "description": "Ford said it would stop funding driverless startup Argo AI in favor of developing Level 2 and Level 3 driver-assist technology in-house. But that might actually be a riskier — and more dangerous — pursuit.",
+      "url": "https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EvwN7LUC5pJpuK4-rhy2lWHWeXo=/0x0:6720x4480/1200x628/filters:focal(3360x2240:3361x2241)/cdn.vox-cdn.com/uploads/chorus_asset/file/24004952/Next_Gen_BlueCruise.jpg",
+      "publishedAt": "2022-10-27T15:54:00Z",
+      "content": "Ford thinks driver assist is a safer bet than driverless cars, but its fooling itself\r\nFord thinks driver assist is a safer bet than driverless cars, but its fooling itself\r\n / The automaker pulled s… [+6766 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ariel Shapiro",
+      "title": "Spotify pulls audiobook purchases from iOS app after Apple blocks updates",
+      "description": "One month after launch, users can no longer buy audiobooks through Spotify’s new vertical. The company is... not thrilled.",
+      "url": "https://www.theverge.com/2022/10/27/23426631/spotify-apple-pulls-audiobook-purchases-ios-app",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/CKTAR2b2HRdXAwNzIApGXjHrpng=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951389/STK088_VRG_Illo_N_Barclay_6_spotify.jpg",
+      "publishedAt": "2022-10-27T15:41:23Z",
+      "content": "Spotify pulls audiobook purchases from iOS app after Apple blocks updates\r\nSpotify pulls audiobook purchases from iOS app after Apple blocks updates\r\n / One month after launch, users can no longer bu… [+2763 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "Fujifilm Instax Square Link review: hip to print square",
+      "description": "The Instax Square Link is an instant photo printer that uses Fujifilm’s square format film. Despite a few social features that don’t quite hit, it’s a great gadget for anyone nostalgic for the days of Polaroid cameras.",
+      "url": "https://www.theverge.com/23425386/fujifilm-instax-square-link-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/LELvThr_gElKGK-YtqBvByohbkc=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24143713/DSC03833_processed.jpg",
+      "publishedAt": "2022-10-27T15:31:42Z",
+      "content": "Minus a few gimmicky social features, the Square Link adds up to good nostalgic fun\r\nByAllison Johnson / @allisonjo1\r\nOct 27, 2022, 3:31 PM UTC|\r\nFujifilms newest mobile photo printer is a compact ba… [+5477 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elizabeth Lopatto",
+      "title": "The Twitter deal is all downside risk for Elon Musk",
+      "description": "Elon Musk’s $44 billion acquisition of Twitter is expected to close tomorrow. What’s the upside? People already think he’s a genius. If he fails, that may not be true anymore.",
+      "url": "https://www.theverge.com/2022/10/27/23424880/twitter-elon-musk-tesla-risks-spacex-empire-hellsite",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xvKHOYnS4qfZUt9qMxlnTYUPNdY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24145486/226378_Twitter_Risk_Elon_Musk_WJoel.jpg",
+      "publishedAt": "2022-10-27T15:30:00Z",
+      "content": "Elon Musks $44 billion acquisition of Twitter is expected to close tomorrow. (Please God, let it close tomorrow.) There are lots of very smart financial journalists who have things to say about this.… [+10107 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft: Xbox game streaming console is ‘years away’",
+      "description": "Microsoft won’t be bringing an Xbox game streaming console to the market anytime soon. After originally announcing a streaming Xbox device last year, Microsoft’s Phil Spencer now says it’s years away.",
+      "url": "https://www.theverge.com/2022/10/27/23426512/microsoft-xbox-game-streaming-console-years-away",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3mI_OlIaR6adBkCioVw1wQj6g0g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg",
+      "publishedAt": "2022-10-27T15:02:47Z",
+      "content": "Microsoft: Xbox game streaming console is years away\r\nMicrosoft: Xbox game streaming console is years away\r\n / Microsoft originally announced an Xbox streaming device last year but now says its years… [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "iPads made flight decks digital — now United is using them to confirm airplane maintenance",
+      "description": "United announced it's the first and only airline to get FAA approval for Maintenance Release Document (MRD) via iPad using Touch ID in place of a signature. The move is anticipated to save a lot of time and paper.",
+      "url": "https://www.theverge.com/2022/10/27/23424311/united-airlines-apple-ipad-mrd-maintenance-signoff-faa-approval",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ukkmAlzwV1MDMNozHREtLkEMLK4=/0x0:9504x6336/1200x628/filters:focal(4752x3168:4753x3169)/cdn.vox-cdn.com/uploads/chorus_asset/file/24141970/United_tech_ops_iPad.jpg",
+      "publishedAt": "2022-10-27T15:00:00Z",
+      "content": "iPads made flight decks digital now United is using them to confirm airplane maintenance\r\niPads made flight decks digital now United is using them to confirm airplane maintenance\r\n / The airline has … [+2786 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "Never pay the ransom — a cybersecurity CEO explains why",
+      "description": "Ransomware attacks still plague our healthcare system. Steve Cagle’s cybersecurity company Clearwater Compliance is trying to prevent them and protect patients’ healthcare data.",
+      "url": "https://www.theverge.com/23410990/cybersecurity-ransomware-healthcare-data-hipaa-hospitals",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zP-Fr6Hsjea-PYDjqb35DDYaWg0=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24087582/Decoder_vincentkilbride_theverge.jpg",
+      "publishedAt": "2022-10-27T14:54:21Z",
+      "content": "Ransomware attacks still plague our healthcare system. Steve Cagles cybersecurity company is trying to prevent them.\r\nByNilay Patel / @reckless\r\nOct 27, 2022, 2:54 PM UTC|\r\nThis bonus episode of Deco… [+57040 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nicole Wetsman",
+      "title": "YouTube will let doctors and nurses apply to be labeled as reliable",
+      "description": "YouTube will let healthcare professionals apply to get panels on their videos saying they’re reliable sources of information. The feature was previously available to institutions like hospitals.",
+      "url": "https://www.theverge.com/2022/10/27/23426353/youtube-doctors-nurses-health-information-labels",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gUzfom5WKqgNXz0HDpt4gC5j_3k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986638/acastro_STK092_02.jpg",
+      "publishedAt": "2022-10-27T14:51:17Z",
+      "content": "YouTube will let doctors and nurses apply to be labeled as reliable\r\nYouTube will let doctors and nurses apply to be labeled as reliable\r\n / YouTube will verify their licenses. Videos of licensed hea… [+2052 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alice Newcome-Beill",
+      "title": "You can save $200 on the 256GB Samsung Galaxy Flip 4 today",
+      "description": "Samsung is matching Prime Day pricing for the 256GB Samsung Galaxy Z Flip 4, and Ultimate Ears is also offering sitewide discounts on its excellent Bluetooth speakers and earbuds.",
+      "url": "https://www.theverge.com/2022/10/27/23424957/samsung-galaxy-z-flip-4-buds-2-ultimate-ears-ue-fits-logitech-mx-master-3-mouse-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RrxJijjFTeUrCddv9Ak6ML9BXCw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954856/226134_SAMSUNG_GALAXY_Z_FLIP_PHO_ajohnson_0006.jpg",
+      "publishedAt": "2022-10-27T14:45:32Z",
+      "content": "You can save $200 on the 256GB Samsung Galaxy Flip 4 today\r\nYou can save $200 on the 256GB Samsung Galaxy Flip 4 today\r\n / The Samsung Galaxy Buds 2 and Jabra Elite 7 Active earbuds are also availabl… [+7072 chars]"
+    }
   ]
 }
