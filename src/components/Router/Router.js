@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter, Route, Routes} from "react-router-dom";
+import {BrowserRouter, HashRouter, Route, Routes} from "react-router-dom";
 import Home from "../Home/Home";
 import Contact from "../Contact/Contact";
 import PostComponent from "../Posts/Posts";
@@ -9,7 +9,7 @@ import Footer from "../Footer/Footer";
 
 const Router = () => {
    return (
-	  <BrowserRouter>
+	  <HashRouter>
 		 <Header/>
 		 <MainLayout>
 			<Routes>
@@ -20,7 +20,7 @@ const Router = () => {
 			</Routes>
 			<Footer/>
 		 </MainLayout>
-	  </BrowserRouter>
+	  </HashRouter>
    );
 };
 
