@@ -12,7 +12,7 @@ const HomePosts = () => {
 
    useEffect(() => {
 	  if (storeArticles.news.length <= 0) dispatch(fetchArticles({page: 1}))
-   }, [dispatch])
+   }, )
 
    const loadMorePosts = () => dispatch(fetchArticles({
 	  page: `${Number(storeArticles.page) + 1}`
@@ -31,7 +31,8 @@ const HomePosts = () => {
 					 <Moment format="DD MMMM YYYY">{post.createdAt}</Moment>
 				  </div>
 				  <div className="content">
-					 <LinkContainer className="mt-2 align-self-center" to={`/article/${idx}`} style={{cursor: "pointer"}}>
+					 <LinkContainer className="mt-2 align-self-center" to={`/article/${idx}`}
+									style={{cursor: "pointer"}}>
 						<div className="article-title">{post.title}</div>
 					 </LinkContainer>
 					 <div className="excerpt">{post.description}</div>

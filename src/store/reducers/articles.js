@@ -30,6 +30,9 @@ export const articlesSlice = createSlice({
 		 .addCase(fetchArticles.rejected, (state, action) => {
 			state.loading = false
 		 })
+		 .addCase(fetchContentById.fulfilled, (state, action) => {
+			console.log(action.payload)
+		 })
    }
 })
 

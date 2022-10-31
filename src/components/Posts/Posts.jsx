@@ -2,13 +2,10 @@ import React, {useEffect} from 'react';
 import {useDispatch, useSelector} from "react-redux";
 import {useParams} from "react-router-dom";
 import Moment from "react-moment";
-import {Spinner} from "react-bootstrap";
 import {clearPostById} from "../../store/reducers/posts";
-import Footer from "../Footer/Footer";
 import {articleById} from "../../store/reducers/articles";
 
 const PostComponent = () => {
-   const storePost = useSelector(state => state.posts)
    const storeArticle = useSelector(state => state.articles)
    const dispatch = useDispatch()
    const params = useParams()
@@ -16,15 +13,13 @@ const PostComponent = () => {
 
    useEffect(() => {
 	  dispatch(articleById(storeArticle.news[params.id]))
-	  console.log(storeArticle)
-	  console.log(storeArticle.articleById)
-   }, [dispatch])
+   }, )
 
    useEffect(() => {
 	  return () => {
 		 dispatch(clearPostById())
 	  }
-   }, [])
+   }, [dispatch])
 
    return (
 	  <>

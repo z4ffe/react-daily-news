@@ -19,11 +19,16 @@ export const fetchArticles = createAsyncThunk('articles/fetchArticles', async ({
    }
 })
 
-export const fetchContentById = createAsyncThunk('articles/fetchContentById', async ({id}, {getState}) => {
+export const fetchContentById = createAsyncThunk('articles/fetchContentById', async ({id = 1}, {getState}) => {
    try {
-		const response = await axios({
-
-		})
+	  const response = await axios({
+		 method: 'GET',
+		 url: 'https://api.newscatcherapi.com/v2/search',
+		 params: {q: 'Bitcoin', lang: 'en', sort_by: 'relevancy', page: '1'},
+		 headers: {
+			'x-api-key': 'aJidQI82qvTHxFh9a2Hy_hdldpfX2D-H09ghaQ_IdRE'
+		 }
+	  })
 	  return response
    } catch (err) {
 	  throw err

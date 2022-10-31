@@ -47,24 +47,24 @@ const Contact = () => {
 			<div className="form-group">
 			   <label htmlFor="email">Email address</label>
 			   <input type="email" className="form-control mt-1" placeholder="example@email.com" name="email" {...formik.getFieldProps('email')}/>
-			   {(formik.errors.email && formik.touched.email) && <Alert variant="danger" className="mt-1">{formik.errors.email}</Alert>}
+			   {(formik.errors.email && formik.touched.email) && <Alert variant="light" className="mt-1">{formik.errors.email}</Alert>}
 			</div>
 			<div className="form-group mt-2">
 			   <label htmlFor="firstname">First name</label>
 			   <input type="text" className="form-control mt-1" name="firstname" {...formik.getFieldProps('firstname')}/>
-			   {(formik.errors.firstname && formik.touched.firstname) && <Alert variant="danger" className="mt-1">{formik.errors.firstname}</Alert>}
+			   {(formik.errors.firstname && formik.touched.firstname) && <Alert variant="light" className="mt-1 text-white opacity-75">{formik.errors.firstname}</Alert>}
 			</div>
 			<div className="form-group mt-2">
 			   <label htmlFor="lastname">Last name</label>
 			   <input type="text" className="form-control mt-1" name="lastname" {...formik.getFieldProps('lastname')}/>
-			   {(formik.errors.lastname && formik.touched.lastname) && <Alert variant="danger" className="mt-1">{formik.errors.lastname}</Alert>}
+			   {(formik.errors.lastname && formik.touched.lastname) && <Alert variant="light" className="mt-1">{formik.errors.lastname}</Alert>}
 			</div>
 			<div className="form-group mt-2">
 			   <label htmlFor="message">Message</label>
 			   <textarea className="form-control mt-1" name="message" rows="4" {...formik.getFieldProps('message')}/>
-			   {(formik.errors.message && formik.touched.message) && <Alert variant="danger" className="mt-1">{formik.errors.message}</Alert>}
+			   {(formik.errors.message && formik.touched.message) && <Alert variant="light" className="mt-1">{formik.errors.message}</Alert>}
 			</div>
-			<button type="submit" className="btn btn-primary mt-2 w-25 mx-auto">Send message</button>
+			<button type="submit" className="btn btn-outline-light mt-2 mx-auto opacity-75">Send message</button>
 		 </form>
 	  </>
    );
