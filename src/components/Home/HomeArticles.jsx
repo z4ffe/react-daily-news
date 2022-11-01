@@ -6,7 +6,7 @@ import Moment from "react-moment";
 import {LinkContainer} from "react-router-bootstrap";
 import {Button, Spinner} from "react-bootstrap";
 
-const HomePosts = () => {
+const HomeArticles = () => {
    const storeArticles = useSelector((state) => state.articles)
    const dispatch = useDispatch()
 
@@ -56,4 +56,4 @@ const HomePosts = () => {
    );
 };
 
-export default HomePosts;
+export default HomeArticles;

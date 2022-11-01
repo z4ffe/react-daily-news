@@ -153,6 +153,7 @@ nav {
     }
 }
 
+
 .form-group input {
     color: rgba(255, 255, 255, 0.75) !important;
 }
@@ -170,35 +171,42 @@ nav {
     box-shadow: rgb(0 0 0 / 20%) 3px 4px 2px -2px, rgb(0 0 0 / 14%) 0 2px 2px 0, rgb(0 0 0 / 12%) 0 2px 6px 0;
     overflow: hidden;
     border-radius: 5px;
-    padding: 10px 20px 10px
 }
 
 .article_container h1 {
     text-align: center;
-    font-size: 35px;
+    font-size: 2rem;
     font-weight: 400;
     background-image: linear-gradient(rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05));
+    border-bottom: 2px solid #212529;
+    padding: 5px;
 }
 
 .article_container > img {
     height: 400px;
     object-fit: contain;
     background-image: linear-gradient(rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05));
+    padding: 10px 0 5px;
 }
 
 .article_container .author {
+    color: rgba(255, 255, 255, 0.5);
     text-align: center;
     margin-top: 5px;
     font-weight: 400;
     background-image: linear-gradient(rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05));
+    border-bottom: 2px solid #212529;
+    padding: 0 0 5px 0;
 }
 
 .article_container time {
+    color: rgba(255, 255, 255, 0.5);
     background-image: linear-gradient(rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05));
 }
 
 .article_container > .content {
     background-image: linear-gradient(rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05));
+    padding: 5px 50px 10px;
 }
 
 
@@ -317,8 +325,28 @@ nav {
     text-decoration: none;
 }
 
+/*contact*/
+
+.contact-btn {
+    color: rgba(255, 255, 255, 0.75);
+    opacity: 75%;
+}
+
+.contact-btn:hover {
+    color: rgba(255, 255, 255, 1);
+    opacity: 85%;
+}
+
 
 @media screen and (max-width: 992px) {
+
+    .form-group {
+        text-align: center;
+    }
+
+    .form-group > input::placeholder {
+        text-align: center;
+    }
 
     .footer-wrapper {
         align-items: center;
@@ -364,10 +392,28 @@ nav {
     .newsletter_container form div .newsletter-input::placeholder {
         text-align: center;
     }
+
+
+    .article_container > .content {
+        text-align: justify;
+        padding: 5px 15px 10px;
+    }
+
+    .article_container img {
+        object-fit: cover;
+    }
 }
 
 @media screen and (max-width: 1200px) {
     .footer-wrapper .footer-copyright {
         margin: 2rem 0 0 0;
     }
+}
+
+.alert {
+    color: #882020;
+}
+
+.Toastify__toast-container--top-right {
+    background-color: transparent !important;
 }

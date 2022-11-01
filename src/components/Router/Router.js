@@ -2,7 +2,7 @@ import React from 'react';
 import {BrowserRouter, HashRouter, Route, Routes} from "react-router-dom";
 import Home from "../Home/Home";
 import Contact from "../Contact/Contact";
-import PostComponent from "../Posts/Posts";
+import PostComponent from "../Article/Article";
 import Header from "../Header/Header";
 import MainLayout from "../../layouts/MainLayout";
 import Footer from "../Footer/Footer";

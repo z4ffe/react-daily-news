@@ -22,7 +22,7 @@ const PostComponent = () => {
 			   <img src={storeArticle.articleById.urlToImage} alt=""/>
 			   <div className="author">Author: {storeArticle.articleById.author} - <Moment
 				  format="DD MMMM YYYY">{storeArticle.articleById.publishedAt}</Moment></div>
-			   <div className="content mt-3">{storeArticle.articleById.content}</div>
+			   <div className="content">{storeArticle.articleById.content}</div>
 			</div>}
 	  </>
    );

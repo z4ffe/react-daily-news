@@ -12,16 +12,17 @@ const Footer = () => {
    const handleSubmit = (e) => {
 	  e.preventDefault()
 	  const value = textInput.current.value
-	  console.log(value)
-	  dispatch(addUserToNewsLetter({email: value}))
-		 .unwrap()
-		 .then(res => {
-			if (res.newsletter === 'added') {
-			   ShowToast('success', 'You are subscribed for newsletter')
-			} else {
-			   ShowToast('error', 'This email already exist')
-			}
-		 })
+	  if (value) {
+		 dispatch(addUserToNewsLetter({email: value}))
+			.unwrap()
+			.then(res => {
+			   if (res.newsletter === 'added') {
+				  ShowToast('success', 'You are subscribed for newsletter')
+			   } else {
+				  ShowToast('error', 'This email already exist')
+			   }
+			})
+	  }
 	  textInput.current.value = null
 	  dispatch(clearNewsLetter())
    }
