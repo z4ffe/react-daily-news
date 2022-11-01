@@ -158,7 +158,7 @@ nav {
     color: rgba(255, 255, 255, 0.75) !important;
 }
 
-.form-group textarea     {
+.form-group textarea {
     color: rgba(255, 255, 255, 0.75) !important;
 }
 
@@ -179,7 +179,7 @@ nav {
     font-weight: 400;
     background-image: linear-gradient(rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05));
     border-bottom: 2px solid #212529;
-    padding: 5px;
+    padding: 5px 15px;
 }
 
 .article_container > img {
@@ -402,6 +402,13 @@ nav {
     .article_container img {
         object-fit: cover;
     }
+
+    .article_container h1 {
+        font-size: 1.5rem;
+        text-align: center;
+        padding: 5px 5px;
+    }
+
 }
 
 @media screen and (max-width: 1200px) {
