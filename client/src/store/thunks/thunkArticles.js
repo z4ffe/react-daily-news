@@ -3,12 +3,13 @@ import axios from "axios";
 
 const URL_API_NEWS = 'https://newsapi.org/v2/everything?sources=the-verge&apiKey=d9e92bc94dba43ba86f5a522615933cd&pageSize=6'
 const URL_API = 'https://world-tech-news.vercel.app/api/news'
+const URL_API_LOCAL = 'http://localhost:5005/api/news'
 
 export const fetchArticles = createAsyncThunk('articles/fetchArticles', async ({page}, {getState}) => {
    try {
 	  const response = await axios({
 		 method: 'GET',
-		 url: `${URL_API}?limit=6&page=${page}`
+		 url: `${URL_API_LOCAL}?limit=6&page=${page}`
 	  })
 	  console.log(response.data.length)
 	  return {
