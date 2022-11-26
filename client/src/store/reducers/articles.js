@@ -6,7 +6,7 @@ export const articlesSlice = createSlice({
    initialState: {
 	  loading: true,
 	  news: [],
-	  page: 1,
+	  page: 0,
 	  end: false,
    },
    reducers: {
@@ -23,11 +23,11 @@ export const articlesSlice = createSlice({
 			state.loading = true
 		 })
 		 .addCase(fetchArticles.fulfilled, (state, action) => {
+			console.log(action.payload)
 			state.loading = false
-			//state.news = [...state.news, ...action.payload.news.articles] // for real-api
-			state.news = [...state.news, ...action.payload.news] // local json-server articles
-			state.end = action.payload.end  // local json-server end-of-articles
-			state.page = +action.payload.page.page
+			state.news = [...state.news, ...action.payload.news]
+			state.page = state.page + 6
+			state.end = action.payload.end
 		 })
 		 .addCase(fetchArticles.rejected, (state, action) => {
 			state.loading = false

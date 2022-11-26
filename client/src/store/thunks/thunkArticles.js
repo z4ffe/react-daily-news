@@ -1,18 +1,16 @@
 import {createAsyncThunk} from "@reduxjs/toolkit";
 import axios from "axios";
 
-const URL_SERVER_REAL = 'https://newsapi.org/v2/everything?sources=the-verge&apiKey=d9e92bc94dba43ba86f5a522615933cd&pageSize=6'
-const URL_SERVER_JSON = 'http://localhost:3000/articles'
-const URL_SERVER_HEROKU = 'https://world-tech-news.herokuapp.com/articles'
+const URL_API_NEWS = 'https://newsapi.org/v2/everything?sources=the-verge&apiKey=d9e92bc94dba43ba86f5a522615933cd&pageSize=6'
+const URL_API = 'https://world-tech-news.vercel.app/api/news'
 
-export const fetchArticles = createAsyncThunk('articles/fetchArticles', async ({page = 1}, {getState}) => {
+export const fetchArticles = createAsyncThunk('articles/fetchArticles', async ({page}, {getState}) => {
    try {
 	  const response = await axios({
 		 method: 'GET',
-		 //url: `${URL_SERVER_REAL}&page=${page}` // real-api url
-		 //url: `${URL_SERVER_JSON}?_page=${page}&_limit=6` // json-server url
-		 url: `${URL_SERVER_HEROKU}?_page=${page}&_limit=6` // heroku url
+		 url: `${URL_API}?limit=6&page=${page}`
 	  })
+	  console.log(response.data.length)
 	  return {
 		 news: response.data,
 		 page: {page},

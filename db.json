@@ -1,6 +1,23 @@
 {
-  "newsletter": [],
-  "contact": [],
+  "newsletter": [
+    {
+      "email": "asdsadasd@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "pavel.kulyasov@gmail.com",
+      "id": 2
+    }
+  ],
+  "contact": [
+    {
+      "email": "pavel.kulyasov@gmail.com",
+      "firstname": "asdsadsad",
+      "lastname": "adsad",
+      "message": "asdsadasdsad",
+      "id": 1
+    }
+  ],
   "articles": [
     {
       "source": {
