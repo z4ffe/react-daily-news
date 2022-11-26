@@ -1,26 +1,15 @@
 import {createAsyncThunk} from "@reduxjs/toolkit";
 import axios from "axios";
 
-const URL_SERVER = "http://localhost:3000"
-//const URL_SERVER_HEROKU = "https://world-tech-news.herokuapp.com"
+const URL_API = 'https://world-tech-news.vercel.app/api'
+const URL_API_LOCAL = 'http://localhost:5005/api'
 
 export const addUserToNewsLetter = createAsyncThunk('users/addUserToNewsLetter', async (data) => {
    try {
-	  //const findUser = await axios.get(`${URL_SERVER}/newsletter?email=${data.email}`)
-	  const findUser = await axios.get(`${URL_SERVER}/newsletter?email=${data.email}`)
-	  if (!Array.isArray(findUser.data) || !findUser.data.length) {
-		 const response = await axios({
-			method: 'POST',
-			//url: `${URL_SERVER}/newsletter`,
-			url: `${URL_SERVER}/newsletter`,
-			data: {
-			   email: data.email
-			}
-		 });
-		 return {newsletter: 'added', email: response.data}
-	  } else {
-		 return {newsletter: 'failed'}
-	  }
+	  const response = await axios.post(`${URL_API}/newsletter`, {
+		 data
+	  })
+	  return response.data
    } catch (err) {
 	  throw err
    }
@@ -29,8 +18,9 @@ export const addUserToNewsLetter = createAsyncThunk('users/addUserToNewsLetter',
 
 export const sendMessage = createAsyncThunk('users/sendMessage', async (data) => {
    try {
-	  //await axios({method: "POST", url: `${URL_SERVER}/contact`, data: data})
-	  await axios({method: "POST", url: `${URL_SERVER}/contact`, data: data})
+	  await axios.post(`${URL_API}/contact`, {
+		 data
+	  })
 	  return true
    } catch (err) {
 	  throw err

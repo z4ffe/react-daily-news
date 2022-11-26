@@ -5,7 +5,7 @@
 <div>npm start / client</div> 
 <div>npm run dev / server</div> 
 <hr/>
-<div align="center"><a href="https://react-daily-news.herokuapp.com">Vercel Preview</a> 
+<div align="center"><a href="https://world-tech-news.vercel.app">Vercel Preview</a> 
 </div>
 <hr>
 

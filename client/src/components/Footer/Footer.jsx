@@ -16,14 +16,11 @@ const Footer = () => {
 		 dispatch(addUserToNewsLetter({email: value}))
 			.unwrap()
 			.then(res => {
-			   if (res.newsletter === 'added') {
-				  ShowToast('success', 'You are subscribed for newsletter')
-			   } else {
-				  ShowToast('error', 'This email already exist')
-			   }
+			   if (res === 'added') ShowToast('success', 'You are subscribed for newsletter')
+			   else ShowToast('error', 'This email already exist')
 			})
 	  }
-	  textInput.current.value = null
+	  textInput.current.value = ''
 	  dispatch(clearNewsLetter())
    }
 

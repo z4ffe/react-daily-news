@@ -9,13 +9,13 @@ export const fetchArticles = createAsyncThunk('articles/fetchArticles', async ({
    try {
 	  const response = await axios({
 		 method: 'GET',
-		 url: `${URL_API_LOCAL}?limit=6&page=${page}`
+		 url: `${URL_API}?limit=6&page=${page}`
 	  })
 	  console.log(response.data.length)
 	  return {
 		 news: response.data,
 		 page: {page},
-		 end: response.data.length === 0 ? true : false
+		 end: !response.data.length
 	  }
    } catch (err) {
 	  throw err

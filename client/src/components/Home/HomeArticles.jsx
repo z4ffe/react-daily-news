@@ -27,7 +27,7 @@ const HomeArticles = () => {
 				  <img src={post.urlToImage} alt="post-pic"/>
 				  <div className="author">
 					 <span>{post.author}</span>
-					 <Moment format="DD MMMM YYYY">{post.createdAt}</Moment>
+					 <Moment format="DD MMMM YYYY">{post.publishedAt}</Moment>
 				  </div>
 				  <div className="content">
 					 <LinkContainer className="mt-2 align-self-center" to={`/article/${idx}`}

@@ -23,7 +23,6 @@ export const articlesSlice = createSlice({
 			state.loading = true
 		 })
 		 .addCase(fetchArticles.fulfilled, (state, action) => {
-			console.log(action.payload)
 			state.loading = false
 			state.news = [...state.news, ...action.payload.news]
 			state.page = state.page + 6
